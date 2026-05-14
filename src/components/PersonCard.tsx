@@ -1,15 +1,7 @@
-import type { Person } from "@/lib/movies";
+import Image from "next/image";
+import type { Person } from "@/lib/movies-server";
 
 type Props = { person: Person };
-
-function initials(name: string): string {
-  return name
-    .split(" ")
-    .map((n) => n[0])
-    .slice(0, 2)
-    .join("")
-    .toUpperCase();
-}
 
 function formatChange(n: number): string {
   return n.toLocaleString();
@@ -18,12 +10,18 @@ function formatChange(n: number): string {
 export default function PersonCard({ person }: Props) {
   return (
     <div className="flex flex-col items-center text-center">
-      <div className="relative w-[110px] h-[110px] rounded-full overflow-hidden border border-border bg-gradient-to-br from-[#3a3a3a] to-[#1a1a1a] flex items-center justify-center text-2xl font-semibold text-fg-muted">
-        {initials(person.name)}
+      <div className="relative w-[110px] h-[110px] rounded-full overflow-hidden border border-border bg-gradient-to-br from-[#3a3a3a] to-[#1a1a1a]">
+        <Image
+          src={person.photo}
+          alt={person.name}
+          fill
+          sizes="110px"
+          className="object-cover"
+        />
         {/* Add to watchlist overlay button */}
         <button
           type="button"
-          className="absolute bottom-1 left-1 w-7 h-7 rounded-full bg-accent text-black font-bold text-base flex items-center justify-center shadow"
+          className="absolute bottom-1 left-1 w-7 h-7 rounded-full bg-accent text-black font-bold text-base flex items-center justify-center shadow z-10"
           aria-label="Add to watchlist"
         >
           +

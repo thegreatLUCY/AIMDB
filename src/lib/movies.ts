@@ -114,64 +114,9 @@ export function getUpNext(featured: Movie, limit = 3): Movie[] {
     .slice(0, limit);
 }
 
-// Aggregates all cast + directors across all movies to build a "celebrities" view.
-export type Person = {
-  name: string;
-  appearanceCount: number;
-  totalVotes: number;
-  recentScore: number;
-  rank: number;
-  rankChange: number;
-};
-
-export function getPopularPeople(): { rising: Person[]; byRanking: Person[] } {
-  const map = new Map<string, { count: number; votes: number; recent: number }>();
-
-  function bump(name: string, votes: number, recentWeight: number) {
-    const cur = map.get(name) ?? { count: 0, votes: 0, recent: 0 };
-    cur.count += 1;
-    cur.votes += votes;
-    cur.recent += votes * recentWeight;
-    map.set(name, cur);
-  }
-
-  for (const m of movies) {
-    const recentWeight = m.year >= 2015 ? 3 : m.year >= 2000 ? 1.5 : 1;
-    for (const c of m.cast) bump(c.name, m.voteCount, recentWeight);
-    bump(m.director, m.voteCount, recentWeight);
-  }
-
-  const all = Array.from(map.entries()).map(([name, p]) => ({
-    name,
-    appearanceCount: p.count,
-    totalVotes: p.votes,
-    recentScore: p.recent,
-  }));
-
-  // By ranking: most total votes across all films (the "established stars")
-  const byRanking = [...all]
-    .sort((a, b) => b.totalVotes - a.totalVotes)
-    .slice(0, 4)
-    .map((p, i) => ({
-      ...p,
-      rank: i + 1,
-      rankChange: 0, // top of the list holds steady (matches IMDb "(—)")
-    }));
-
-  // Top rising: best recent-weighted score, excluding the top-ranked four
-  const inByRanking = new Set(byRanking.map((p) => p.name));
-  const rising = [...all]
-    .filter((p) => !inByRanking.has(p.name))
-    .sort((a, b) => b.recentScore - a.recentScore)
-    .slice(0, 4)
-    .map((p, i) => ({
-      ...p,
-      rank: 30 + i + 1, // simulate plausible chart positions
-      rankChange: Math.floor(p.recentScore / 4000) + 100 * (4 - i), // big up-movement
-    }));
-
-  return { rising, byRanking };
-}
+// NOTE: getPopularPeople moved to movies-server.ts because it needs Node's fs.
+// The Person type lives there too. Server components import from movies-server,
+// client components import from this file.
 
 // Curated "lists" used in the Featured today section. Each list = 5 movies.
 export type CuratedList = {
