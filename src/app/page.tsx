@@ -1,10 +1,10 @@
 import {
   getCuratedLists,
+  getPopularPeople,
   getRandomFeatured,
   getRandomTopPicks,
   getRandomUpNext,
 } from "@/lib/movies";
-import { getPopularPeople } from "@/lib/movies-server";
 import FeaturedHero from "@/components/FeaturedHero";
 import TopicPills from "@/components/TopicPills";
 import FeaturedTodayCard from "@/components/FeaturedTodayCard";

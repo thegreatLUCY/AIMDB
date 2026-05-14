@@ -1,9 +1,20 @@
 import moviesData from "../../data/movies.json";
+import castManifest from "../../data/cast-photos.json";
 import type { Movie } from "@/types/movie";
 
 // Cast the imported JSON to our Movie[] type once, here.
 // Everywhere else in the app just calls these helpers.
 const movies = moviesData as Movie[];
+
+// Pre-computed set of cast headshot files that actually exist on disk.
+// The manifest is generated at build time by scripts/build-cast-manifest.mjs.
+const availablePhotos: Set<string> = new Set(castManifest.files);
+
+function castPhotoExists(photoPath?: string): boolean {
+  if (!photoPath) return false;
+  const filename = photoPath.split("/").pop()!;
+  return availablePhotos.has(filename);
+}
 
 // Converts a movie title into a URL-safe slug.
 // "The Glass Harbor"     -> "the-glass-harbor"
@@ -114,9 +125,58 @@ export function getUpNext(featured: Movie, limit = 3): Movie[] {
     .slice(0, limit);
 }
 
-// NOTE: getPopularPeople moved to movies-server.ts because it needs Node's fs.
-// The Person type lives there too. Server components import from movies-server,
-// client components import from this file.
+// Person represents an aggregated cast member used in the homepage celebrity strip.
+export type Person = {
+  name: string;
+  photo: string;
+  appearanceCount: number;
+  totalVotes: number;
+  rank: number;
+  rankChange: number;
+};
+
+// Builds the "Most popular celebrities" view. Only includes cast members
+// whose headshot file is present in the build-time manifest. Randomized per
+// page load (the homepage is dynamic).
+export function getPopularPeople(): { rising: Person[]; byRanking: Person[] } {
+  const map = new Map<
+    string,
+    { count: number; votes: number; photo: string }
+  >();
+
+  for (const m of movies) {
+    for (const c of m.cast) {
+      if (!castPhotoExists(c.photo)) continue;
+      const cur = map.get(c.name) ?? { count: 0, votes: 0, photo: c.photo! };
+      cur.count += 1;
+      cur.votes += m.voteCount;
+      map.set(c.name, cur);
+    }
+  }
+
+  const all = Array.from(map.entries()).map(([name, p]) => ({
+    name,
+    photo: p.photo,
+    appearanceCount: p.count,
+    totalVotes: p.votes,
+  }));
+
+  const shuffled = shuffle(all);
+
+  const rising = shuffled.slice(0, 4).map((p, i) => ({
+    ...p,
+    rank: 30 + i + 1,
+    rankChange: Math.floor(p.totalVotes / 4000) + 100 * (4 - i),
+  }));
+
+  const byRanking = shuffled.slice(4, 8).map((p, i) => ({
+    ...p,
+    rank: i + 1,
+    rankChange: 0,
+  }));
+
+  return { rising, byRanking };
+}
 
 // Curated "lists" used in the Featured today section. Each list = 5 movies.
 export type CuratedList = {
