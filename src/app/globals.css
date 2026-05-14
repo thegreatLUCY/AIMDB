@@ -1,26 +1,22 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
+/* Custom design tokens, exposed as Tailwind utilities like bg-bg, text-accent, etc. */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-bg: #121212;
+  --color-bg-elevated: #1f1f1f;
+  --color-fg: #ffffff;
+  --color-fg-muted: #b3b3b3;
+  --color-accent: #f5c518;
+  --color-border: #2a2a2a;
+  --color-link: #5799ef;
+  --color-link-hover: #82b4ff;
+  --font-sans: Arial, Helvetica, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html, body {
+  background: var(--color-bg);
+  color: var(--color-fg);
+  font-family: var(--font-sans);
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-}
+a { color: inherit; }

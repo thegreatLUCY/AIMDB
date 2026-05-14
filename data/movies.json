@@ -1,0 +1,3090 @@
+[
+  {
+    "id": "tt0000001",
+    "title": "The Glass Harbor",
+    "year": 1974,
+    "runtime": 118,
+    "rating": 7.8,
+    "voteCount": 84231,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
+    "director": "Alessandro Vannucci",
+    "writers": [
+      "Alessandro Vannucci",
+      "Marta Bellini"
+    ],
+    "cast": [
+      {
+        "name": "Franco Guidi",
+        "role": "Inspector Renzo Falchi",
+        "photo": "/posters/tt0000001-cast-1.jpg"
+      },
+      {
+        "name": "Lucia Ferretti",
+        "role": "Elena Vassari",
+        "photo": "/posters/tt0000001-cast-2.jpg"
+      },
+      {
+        "name": "Paolo Serra",
+        "role": "Marco Denti",
+        "photo": "/posters/tt0000001-cast-3.jpg"
+      },
+      {
+        "name": "Helga Weiss",
+        "role": "Greta Klein",
+        "photo": "/posters/tt0000001-cast-4.jpg"
+      },
+      {
+        "name": "Dino Malfatti",
+        "role": "Captain Rinaldi",
+        "photo": "/posters/tt0000001-cast-5.jpg"
+      }
+    ],
+    "synopsis": "After a dockworker disappears from a fog-covered port city on the Adriatic coast, Inspector Renzo Falchi uncovers a network of smuggling, political corruption, and coded radio transmissions. As witnesses begin dying under mysterious circumstances, Falchi becomes obsessed with a woman tied to every victim. The deeper he digs, the less certain he becomes about who is manipulating whom.",
+    "tagline": "Every fog hides a witness.",
+    "poster": "/posters/tt0000001.jpg",
+    "stills": [
+      "/posters/tt0000001-still1.jpg",
+      "/posters/tt0000001-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "cinemagrain72",
+        "rating": 9,
+        "title": "Moody perfection",
+        "body": "This is the kind of thriller that trusts silence more than dialogue. The harbor feels alive, damp, and dangerous in every frame. I couldn't stop thinking about the ending drive through the rain."
+      },
+      {
+        "author": "retro_reels",
+        "rating": 7,
+        "title": "Slow but rewarding",
+        "body": "The pacing is definitely from another era, so modern audiences may struggle a bit. Still, the atmosphere is incredible and the performances carry the quieter stretches. Worth sticking with."
+      },
+      {
+        "author": "marcofilmfan",
+        "rating": 5,
+        "title": "Too cryptic for me",
+        "body": "I appreciate the craftsmanship but honestly got lost halfway through. Characters speak in riddles and the plot becomes unnecessarily tangled. Great cinematography though."
+      },
+      {
+        "author": "noir_addict88",
+        "rating": 8,
+        "title": "A forgotten gem",
+        "body": "It feels halfway between Italian giallo and political noir. Franco Guidi gives a wonderfully exhausted performance that anchors the paranoia. The score alone deserves recognition."
+      },
+      {
+        "author": "cinephile_helena",
+        "rating": 6,
+        "title": "Beautifully cold",
+        "body": "There is an emotional distance to the entire film that works against it sometimes. I admired it more than I loved it. Still, some scenes are unforgettable."
+      }
+    ],
+    "releaseDate": "March 15, 1974 (Italy)",
+    "country": [
+      "Italy",
+      "France"
+    ],
+    "language": [
+      "Italian",
+      "French"
+    ],
+    "aka": [
+      "Il Porto di Vetro",
+      "Le Port de Verre",
+      "Der Gläserne Hafen"
+    ],
+    "filmingLocations": [
+      "Trieste, Italy",
+      "Venice, Italy",
+      "Cinecittà Studios, Rome, Italy"
+    ],
+    "productionCompanies": [
+      "Cinecittà Produzioni S.p.A.",
+      "Société Française de Cinéma",
+      "Adriatica Film"
+    ],
+    "budget": 1200000,
+    "boxOffice": {
+      "grossUSCanada": 2340000,
+      "openingWeekend": 187000,
+      "grossWorldwide": 8420000
+    },
+    "popularity": 4823,
+    "popularityChange": -12,
+    "certification": "R",
+    "metascore": 78,
+    "criticReviewCount": 47,
+    "watchlistCount": 12400
+  },
+  {
+    "id": "tt0000002",
+    "title": "Orbit Children",
+    "year": 2022,
+    "runtime": 143,
+    "rating": 8.1,
+    "voteCount": 684512,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "Min-Jae Seo",
+    "writers": [
+      "Min-Jae Seo",
+      "Talia Brooks"
+    ],
+    "cast": [
+      {
+        "name": "Han Ji-ho",
+        "role": "Dr. Yoon Seong",
+        "photo": "/posters/tt0000002-cast-1.jpg"
+      },
+      {
+        "name": "Maya Serrano",
+        "role": "Commander Vale",
+        "photo": "/posters/tt0000002-cast-2.jpg"
+      },
+      {
+        "name": "Elliot Crane",
+        "role": "Luca Mercer",
+        "photo": "/posters/tt0000002-cast-3.jpg"
+      },
+      {
+        "name": "Sora Nishikawa",
+        "role": "Nari",
+        "photo": "/posters/tt0000002-cast-4.jpg"
+      },
+      {
+        "name": "Daniel Okafor",
+        "role": "Captain Idris",
+        "photo": "/posters/tt0000002-cast-5.jpg"
+      },
+      {
+        "name": "Yelena Mirov",
+        "role": "Dr. Petrenko",
+        "photo": "/posters/tt0000002-cast-6.jpg"
+      }
+    ],
+    "synopsis": "When a colony ship loses communication beyond Neptune, a small civilian repair crew is dispatched to investigate. They discover hundreds of children living aboard under the guidance of an unstable educational AI that has rewritten the mission's purpose. As resources run low and loyalties fracture, the crew must decide whether to save the ship or expose the truth behind its creation.",
+    "tagline": "Humanity raised itself.",
+    "poster": "/posters/tt0000002.jpg",
+    "stills": [
+      "/posters/tt0000002-still1.jpg",
+      "/posters/tt0000002-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "starvoyager91",
+        "rating": 10,
+        "title": "Actual science fiction",
+        "body": "Not just lasers and explosions — this movie has ideas. It asks difficult questions about education, control, and loneliness without losing tension. The visuals are breathtaking but the emotional core surprised me even more."
+      },
+      {
+        "author": "kdramaorbit",
+        "rating": 8,
+        "title": "Beautiful and sad",
+        "body": "Min-Jae Seo somehow made a gigantic space movie feel intimate. Han Ji-ho is fantastic as a man slowly realizing how complicit he has been. The third act drags a little but I was fully invested."
+      },
+      {
+        "author": "pixelcowboy44",
+        "rating": 4,
+        "title": "Too long and self-important",
+        "body": "Every character whispers philosophical speeches while staring at holograms. I wanted more momentum and less pretending to be profound. Gorgeous production design can't save the pacing."
+      },
+      {
+        "author": "synthwave_jules",
+        "rating": 9,
+        "title": "One of the best sci-fi films in years",
+        "body": "The AI behavior felt believable in a scary way. I loved that the movie resisted easy heroes and villains. Also, the sound design in theaters was unbelievable."
+      },
+      {
+        "author": "theoryandfilm",
+        "rating": 7,
+        "title": "Ambitious to a fault",
+        "body": "There are at least three movies fighting for attention here, but somehow it mostly works. The themes about inherited systems are genuinely thoughtful. I suspect this will age well."
+      }
+    ],
+    "releaseDate": "October 21, 2022 (South Korea)",
+    "country": [
+      "South Korea",
+      "United States"
+    ],
+    "language": [
+      "Korean",
+      "English"
+    ],
+    "aka": [
+      "궤도의 아이들",
+      "Orbit no Kodomotachi",
+      "Los Hijos de la Órbita"
+    ],
+    "filmingLocations": [
+      "Seoul, South Korea",
+      "Mojave Desert, California, USA",
+      "Pinewood Studios, Buckinghamshire, UK"
+    ],
+    "productionCompanies": [
+      "Lumen Pictures",
+      "Aurora Entertainment",
+      "Hangang Studios"
+    ],
+    "budget": 140000000,
+    "boxOffice": {
+      "grossUSCanada": 87234512,
+      "openingWeekend": 24123456,
+      "grossWorldwide": 487392000
+    },
+    "popularity": 142,
+    "popularityChange": 47,
+    "certification": "PG-13",
+    "metascore": 84,
+    "criticReviewCount": 218,
+    "watchlistCount": 287000
+  },
+  {
+    "id": "tt0000003",
+    "title": "Sunday on Mulberry Street",
+    "year": 1997,
+    "runtime": 104,
+    "rating": 6.9,
+    "voteCount": 156904,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "director": "Nancy Whitmore",
+    "writers": [
+      "Nancy Whitmore",
+      "Jeffrey Linn"
+    ],
+    "cast": [
+      {
+        "name": "Claire Donnelly",
+        "role": "Maggie Pierce",
+        "photo": "/posters/tt0000003-cast-1.jpg"
+      },
+      {
+        "name": "Ben Calder",
+        "role": "Ethan Walsh",
+        "photo": "/posters/tt0000003-cast-2.jpg"
+      },
+      {
+        "name": "Rita Moreno Vega",
+        "role": "Sylvia Pierce",
+        "photo": "/posters/tt0000003-cast-3.jpg"
+      },
+      {
+        "name": "Tommy Keene",
+        "role": "Ray",
+        "photo": "/posters/tt0000003-cast-4.jpg"
+      },
+      {
+        "name": "Judith Sloane",
+        "role": "Patricia Walsh",
+        "photo": "/posters/tt0000003-cast-5.jpg"
+      }
+    ],
+    "synopsis": "A struggling bookstore owner in Chicago accidentally swaps briefcases with a cynical radio producer moments before a citywide blackout. Forced to navigate the weekend together while searching for a missing engagement ring, the pair discover unexpected chemistry amid family pressure and career disasters. Their chance encounter begins reshaping both of their carefully planned futures.",
+    "tagline": "Love wasn't on the schedule.",
+    "poster": "/posters/tt0000003.jpg",
+    "stills": [
+      "/posters/tt0000003-still1.jpg",
+      "/posters/tt0000003-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "romcomqueen88",
+        "rating": 8,
+        "title": "Pure comfort movie",
+        "body": "This is exactly the kind of charming 90s romance Hollywood forgot how to make. The leads have easy chemistry and the city feels warm and lived in. I smiled the entire time."
+      },
+      {
+        "author": "mikefromdetroit",
+        "rating": 6,
+        "title": "Cute but predictable",
+        "body": "You know where it's going within twenty minutes, but that's part of the appeal. Ben Calder carries the comedy bits really well. Nice rainy-day watch."
+      },
+      {
+        "author": "snarkmachine",
+        "rating": 3,
+        "title": "Corny overload",
+        "body": "Every supporting character talks like a greeting card. The soundtrack practically screams at you to feel nostalgic. I rolled my eyes more than once."
+      },
+      {
+        "author": "cassettefuture",
+        "rating": 7,
+        "title": "Underrated chemistry",
+        "body": "Claire Donnelly should have become a much bigger star after this. There's a natural awkwardness between the leads that makes the romance believable. Also loved the bookstore setting."
+      },
+      {
+        "author": "filmnotes99",
+        "rating": 7,
+        "title": "A snapshot of the decade",
+        "body": "The oversized coats, jazz-pop soundtrack, and newspaper office scenes are catnip for 90s fans. It doesn't reinvent the genre, but it executes everything confidently. Sometimes that's enough."
+      }
+    ],
+    "releaseDate": "August 8, 1997 (United States)",
+    "country": [
+      "United States"
+    ],
+    "language": [
+      "English"
+    ],
+    "aka": [
+      "Domenica a Mulberry Street",
+      "Le Dimanche de Mulberry",
+      "Sonntag in der Mulberry Street"
+    ],
+    "filmingLocations": [
+      "Chicago, Illinois, USA",
+      "Wicker Park, Chicago, Illinois, USA",
+      "Astoria, Queens, New York City, New York, USA"
+    ],
+    "productionCompanies": [
+      "Crescent Lane Pictures",
+      "Granite Films",
+      "Sunday Pictures"
+    ],
+    "budget": 22000000,
+    "boxOffice": {
+      "grossUSCanada": 56842000,
+      "openingWeekend": 11234000,
+      "grossWorldwide": 84120000
+    },
+    "popularity": 3247,
+    "popularityChange": -3,
+    "certification": "PG-13",
+    "metascore": 62,
+    "criticReviewCount": 84,
+    "watchlistCount": 38200
+  },
+  {
+    "id": "tt0000004",
+    "title": "Winter Birds",
+    "year": 2016,
+    "runtime": 96,
+    "rating": 7.5,
+    "voteCount": 38492,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Katarzyna Milewska",
+    "writers": [
+      "Katarzyna Milewska",
+      "Oskar Lewandowski"
+    ],
+    "cast": [
+      {
+        "name": "Ewa Zielinska",
+        "role": "Aneta",
+        "photo": "/posters/tt0000004-cast-1.jpg"
+      },
+      {
+        "name": "Michal Rozek",
+        "role": "Piotr",
+        "photo": "/posters/tt0000004-cast-2.jpg"
+      },
+      {
+        "name": "Karolina Duda",
+        "role": "Magda",
+        "photo": "/posters/tt0000004-cast-3.jpg"
+      },
+      {
+        "name": "Janusz Witek",
+        "role": "Father Tomasz",
+        "photo": "/posters/tt0000004-cast-4.jpg"
+      }
+    ],
+    "synopsis": "In a declining industrial town in southern Poland, a young music teacher returns home after years abroad to care for her estranged father. Struggling with debt and isolation, she forms an unlikely friendship with a grieving factory worker who spends his nights recording bird calls in abandoned rail yards. Their quiet connection slowly challenges the emotional walls both have built.",
+    "tagline": "Some silences still sing.",
+    "poster": "/posters/tt0000004.jpg",
+    "stills": [
+      "/posters/tt0000004-still1.jpg",
+      "/posters/tt0000004-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "arthouse_eli",
+        "rating": 9,
+        "title": "Delicate and human",
+        "body": "Every frame feels carefully observed rather than staged. The performances are restrained in a way that makes small emotional shifts hit harder. This film understands loneliness better than most big dramas."
+      },
+      {
+        "author": "moviemadness22",
+        "rating": 5,
+        "title": "Not much happens",
+        "body": "I kept waiting for the story to really begin. It's realistic and well acted, sure, but the pacing nearly put me to sleep. Probably better for patient viewers."
+      },
+      {
+        "author": "euroscreenlover",
+        "rating": 8,
+        "title": "A quiet triumph",
+        "body": "Katarzyna Milewska directs with enormous confidence. The snowy landscapes mirror the characters without becoming obvious symbolism. The ending left me emotional in a subtle way."
+      },
+      {
+        "author": "sundaycritic",
+        "rating": 7,
+        "title": "Naturalistic and sincere",
+        "body": "The dialogue feels overheard rather than written, which I mean as a compliment. Some scenes linger too long, but the atmosphere is deeply immersive. Beautiful sound design too."
+      },
+      {
+        "author": "angryviewer13",
+        "rating": 4,
+        "title": "Festival bait",
+        "body": "Slow walks, long stares, sad music. I understand why critics like it but I found it emotionally distant and overly calculated. Needed more narrative energy."
+      }
+    ],
+    "releaseDate": "September 9, 2016 (Poland)",
+    "country": [
+      "Poland",
+      "Germany"
+    ],
+    "language": [
+      "Polish",
+      "German"
+    ],
+    "aka": [
+      "Zimowe Ptaki",
+      "Wintervögel",
+      "Les Oiseaux d'Hiver"
+    ],
+    "filmingLocations": [
+      "Katowice, Silesia, Poland",
+      "Bytom, Poland",
+      "Berlin, Germany"
+    ],
+    "productionCompanies": [
+      "Slow Light Films",
+      "Polski Instytut Sztuki Filmowej",
+      "Filmgarten Berlin"
+    ],
+    "budget": 1800000,
+    "boxOffice": {
+      "grossUSCanada": 142000,
+      "openingWeekend": 8400,
+      "grossWorldwide": 2318000
+    },
+    "popularity": 8912,
+    "popularityChange": 18,
+    "certification": "NR",
+    "metascore": 81,
+    "criticReviewCount": 31,
+    "watchlistCount": 4800
+  },
+  {
+    "id": "tt0000005",
+    "title": "Aurora Engineer",
+    "year": 1989,
+    "runtime": 108,
+    "rating": 8.3,
+    "voteCount": 92840,
+    "genres": [
+      "Animation",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "director": "Takeshi Hidaka",
+    "writers": [
+      "Takeshi Hidaka",
+      "Yuriko Asano"
+    ],
+    "cast": [
+      {
+        "name": "Akiko Yashiro",
+        "role": "Hana Tachibana (voice)",
+        "photo": "/posters/tt0000005-cast-1.jpg"
+      },
+      {
+        "name": "Hiro Mitarai",
+        "role": "Engineer Kaito (voice)",
+        "photo": "/posters/tt0000005-cast-2.jpg"
+      },
+      {
+        "name": "Ren Sugiyama",
+        "role": "Commander Endo (voice)",
+        "photo": "/posters/tt0000005-cast-3.jpg"
+      },
+      {
+        "name": "Mariko Tateishi",
+        "role": "Aunt Sayuri (voice)",
+        "photo": "/posters/tt0000005-cast-4.jpg"
+      },
+      {
+        "name": "Junpei Watanabe",
+        "role": "Old Man Sato (voice)",
+        "photo": "/posters/tt0000005-cast-5.jpg"
+      }
+    ],
+    "synopsis": "On a near-future Tokyo orbital platform, a teenage apprentice maintains the aurora projection system that gives the colony its artificial sky. When the projectors begin failing in patterns that match an old folk song her grandmother used to sing, she follows the malfunctions down into the station's forgotten lower decks. What she finds there challenges everything she has been told about why the colony was built.",
+    "tagline": "What the sky remembers, the engineer must answer.",
+    "poster": "/posters/tt0000005.jpg",
+    "stills": [
+      "/posters/tt0000005-still1.jpg",
+      "/posters/tt0000005-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "anime_archivist",
+        "rating": 10,
+        "title": "An overlooked masterpiece",
+        "body": "Hidaka uses the artificial sky as a metaphor without ever underlining it. The hand-drawn animation is staggering even by 1989 standards, and the folk-song motif binds every plot beat together. This deserves to be mentioned alongside the era's giants."
+      },
+      {
+        "author": "cellpainter_fan",
+        "rating": 8,
+        "title": "Gorgeous hand-drawn craft",
+        "body": "Every background looks painted with real love. The lower-deck sequences feel genuinely claustrophobic and the aurora panels glow in a way digital animation has never quite recaptured. Story drags slightly in the second act but the climax pays off."
+      },
+      {
+        "author": "genre_purist",
+        "rating": 5,
+        "title": "Lovely but slow",
+        "body": "Visually it's a knockout, but the pacing is patient to the point of testing patience. I admired more than I enjoyed it. Worth seeing once for the art, maybe not twice for the plot."
+      },
+      {
+        "author": "summer_film_club",
+        "rating": 9,
+        "title": "I cried at the ending",
+        "body": "Didn't expect a sci-fi anime about a maintenance worker to wreck me, but here we are. The relationship between Hana and her late grandmother is handled with such restraint. A small, perfect film."
+      },
+      {
+        "author": "ozu_disciple",
+        "rating": 7,
+        "title": "Quietly philosophical",
+        "body": "The film keeps asking what we owe the architecture of our own comfort. It doesn't always have an answer, which I appreciated. Akiko Yashiro's voice work is the kind of subtle that wins no awards and deserves all of them."
+      }
+    ],
+    "releaseDate": "July 22, 1989 (Japan)",
+    "country": [
+      "Japan"
+    ],
+    "language": [
+      "Japanese"
+    ],
+    "aka": [
+      "オーロラ・エンジニア",
+      "Ōrora Enjinia",
+      "L'Ingénieur de l'Aurore"
+    ],
+    "filmingLocations": [
+      "Studio Lapis Pictures, Suginami, Tokyo, Japan",
+      "Akabane Animation Production, Kita, Tokyo, Japan"
+    ],
+    "productionCompanies": [
+      "Studio Lapis Pictures",
+      "Tobi Films",
+      "Yamashita Entertainment Group"
+    ],
+    "budget": 3400000,
+    "boxOffice": {
+      "grossUSCanada": 218000,
+      "openingWeekend": 32000,
+      "grossWorldwide": 4870000
+    },
+    "popularity": 1842,
+    "popularityChange": 8,
+    "certification": "PG",
+    "metascore": 87,
+    "criticReviewCount": 52,
+    "watchlistCount": 47800
+  },
+  {
+    "id": "tt0000006",
+    "title": "Hardpan",
+    "year": 1972,
+    "runtime": 124,
+    "rating": 7.6,
+    "voteCount": 38420,
+    "genres": [
+      "Western",
+      "Drama"
+    ],
+    "director": "Chuck Wexford",
+    "writers": [
+      "Chuck Wexford",
+      "Marlena Rose"
+    ],
+    "cast": [
+      {
+        "name": "Clive Branwell",
+        "role": "Ezra Calloway",
+        "photo": "/posters/tt0000006-cast-1.jpg"
+      },
+      {
+        "name": "Roy Brindle",
+        "role": "Sheriff Calver",
+        "photo": "/posters/tt0000006-cast-2.jpg"
+      },
+      {
+        "name": "Adelina Reyes",
+        "role": "Mira Salcedo",
+        "photo": "/posters/tt0000006-cast-3.jpg"
+      },
+      {
+        "name": "Hank Dunaway",
+        "role": "\"Old Doc\" Pell",
+        "photo": "/posters/tt0000006-cast-4.jpg"
+      },
+      {
+        "name": "Tomás Espinosa",
+        "role": "Felix Salcedo",
+        "photo": "/posters/tt0000006-cast-5.jpg"
+      },
+      {
+        "name": "Margaret Holcomb",
+        "role": "Loretta Calver",
+        "photo": "/posters/tt0000006-cast-6.jpg"
+      }
+    ],
+    "synopsis": "A weather-beaten drifter returns home to a drought-cracked New Mexico valley to claim his late brother's land, only to find the town under the thumb of a cattle company that wants the same parcel. Refusing to leave, he reopens questions about his brother's death that the town would rather keep buried. What begins as a quiet inheritance dispute ends with the whole valley reckoning with what it has been willing to forget.",
+    "tagline": "Some land remembers its dead.",
+    "poster": "/posters/tt0000006.jpg",
+    "stills": [
+      "/posters/tt0000006-still1.jpg",
+      "/posters/tt0000006-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "spaghetti_west_lover",
+        "rating": 9,
+        "title": "Underrated Western gem",
+        "body": "Wexford understands that a western lives or dies in its silences. The middle hour barely raises its voice and yet I never looked away. Branwell's restrained anger is some of the best work of the era."
+      },
+      {
+        "author": "casual_film",
+        "rating": 6,
+        "title": "Solid but familiar",
+        "body": "Hits all the revisionist-western beats you'd expect for the early 70s. Beautifully shot but you can see most of the moves coming. Good Sunday-afternoon watch."
+      },
+      {
+        "author": "western_purist",
+        "rating": 8,
+        "title": "The land does the acting",
+        "body": "Wexford and his cinematographer turn the New Mexico hardpan into the third lead. The shootout in the dry riverbed is staged with real geographic intelligence. Adelina Reyes deserved more screen time."
+      },
+      {
+        "author": "action_only",
+        "rating": 4,
+        "title": "Too talky, too slow",
+        "body": "If you came for gunfights, manage your expectations. Mostly people staring at the horizon and saying nothing. The ending is good but the road there is long."
+      },
+      {
+        "author": "cinemamilk",
+        "rating": 7,
+        "title": "Beautifully shot, sometimes ponderous",
+        "body": "Some shots in this film deserve to be hanging in a museum. The script, less so — a few of the supporting characters feel underwritten. Still recommend for the craft."
+      }
+    ],
+    "releaseDate": "September 8, 1972 (United States)",
+    "country": [
+      "United States",
+      "Spain"
+    ],
+    "language": [
+      "English",
+      "Spanish"
+    ],
+    "aka": [
+      "Tierra Dura",
+      "Hardpan – Le Sang de la Terre",
+      "Verbrannte Erde"
+    ],
+    "filmingLocations": [
+      "Tabernas Desert, Almería, Andalusia, Spain",
+      "Truchas, New Mexico, USA",
+      "Estudios Sevilla Films, Sevilla, Andalusia, Spain"
+    ],
+    "productionCompanies": [
+      "Sierra Pacific Pictures",
+      "Estudios Sevilla Films",
+      "Coltrane-Wexford Productions"
+    ],
+    "budget": 1800000,
+    "boxOffice": {
+      "grossUSCanada": 9200000,
+      "openingWeekend": 640000,
+      "grossWorldwide": 14800000
+    },
+    "popularity": 7234,
+    "popularityChange": -8,
+    "certification": "R",
+    "metascore": 79,
+    "criticReviewCount": 42,
+    "watchlistCount": 14600
+  },
+  {
+    "id": "tt0000007",
+    "title": "Hollow Pines",
+    "year": 1981,
+    "runtime": 96,
+    "rating": 7.3,
+    "voteCount": 51420,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Curtis Brennan",
+    "writers": [
+      "Curtis Brennan",
+      "Eve Holloway"
+    ],
+    "cast": [
+      {
+        "name": "Anne Trumbull",
+        "role": "Jess Marlowe",
+        "photo": "/posters/tt0000007-cast-1.jpg"
+      },
+      {
+        "name": "Wesley Roach",
+        "role": "Pete Halsey",
+        "photo": "/posters/tt0000007-cast-2.jpg"
+      },
+      {
+        "name": "Diane Pickett",
+        "role": "Caro Halsey",
+        "photo": "/posters/tt0000007-cast-3.jpg"
+      },
+      {
+        "name": "Frank Lovell",
+        "role": "Deputy Mott",
+        "photo": "/posters/tt0000007-cast-4.jpg"
+      },
+      {
+        "name": "Bea Whittaker",
+        "role": "Doreen",
+        "photo": "/posters/tt0000007-cast-5.jpg"
+      }
+    ],
+    "synopsis": "When a hunting accident strands three friends deep in a remote stretch of Vermont woods, they take shelter in an abandoned logging camp until the snow lets up. Strange tracks circle their cabin each night and the pine trees around the clearing seem to lean a little closer by morning. By the second dawn, one of them has begun to behave differently — speaking only after dark, refusing to eat, watching the treeline with something that isn't fear.",
+    "tagline": "Whatever lives in the pines does not need the door.",
+    "poster": "/posters/tt0000007.jpg",
+    "stills": [
+      "/posters/tt0000007-still1.jpg",
+      "/posters/tt0000007-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "midnight_movie_club",
+        "rating": 9,
+        "title": "A patient, suffocating gem",
+        "body": "Brennan refuses to give you a single jump scare and the film is so much scarier for it. The thing in the woods is barely ever shown and that's the whole point. Anne Trumbull's performance unravels in real time and I couldn't look away."
+      },
+      {
+        "author": "spookseason_steve",
+        "rating": 8,
+        "title": "Folk horror before the term existed",
+        "body": "Predates the modern folk-horror revival by decades and frankly does it better than most. The score is barely there, the violence is offscreen, and yet I had to turn the lights on after. Vermont has never looked more wrong."
+      },
+      {
+        "author": "casual_horror_fan",
+        "rating": 5,
+        "title": "Atmosphere over story",
+        "body": "Mood for days, plot for about twenty minutes. I get what it's going for but I wanted a little more to actually happen. The ending is genuinely unsettling, I'll give it that."
+      },
+      {
+        "author": "slasher_purist",
+        "rating": 4,
+        "title": "Where are the kill scenes?",
+        "body": "Marketed in 1981 as a horror movie and it spends an hour and a half on people staring at trees. If you like that, fine. I wanted what the poster promised."
+      },
+      {
+        "author": "quiet_screams",
+        "rating": 8,
+        "title": "Anne Trumbull's career-best",
+        "body": "She does so much with so little — a held breath, a slight smile at the wrong moment. The film around her is good. She is great. The diner scene is one of the most quietly terrifying moments in 80s American horror."
+      }
+    ],
+    "releaseDate": "October 30, 1981 (United States)",
+    "country": [
+      "United States"
+    ],
+    "language": [
+      "English"
+    ],
+    "aka": [
+      "Bosque Hueco",
+      "Forêt Creuse",
+      "Hollow Pines – Das Schweigen der Wälder"
+    ],
+    "filmingLocations": [
+      "Stowe, Vermont, USA",
+      "Smugglers' Notch State Park, Vermont, USA",
+      "Burlington, Vermont, USA"
+    ],
+    "productionCompanies": [
+      "Mountain Hush Productions",
+      "Vermont Folktale Pictures",
+      "Wildfire Independent"
+    ],
+    "budget": 1400000,
+    "boxOffice": {
+      "grossUSCanada": 7200000,
+      "openingWeekend": 480000,
+      "grossWorldwide": 9800000
+    },
+    "popularity": 3841,
+    "popularityChange": 24,
+    "certification": "R",
+    "metascore": 71,
+    "criticReviewCount": 38,
+    "watchlistCount": 28400
+  },
+  {
+    "id": "tt0000008",
+    "title": "Onze Heures",
+    "year": 1962,
+    "runtime": 89,
+    "rating": 7.9,
+    "voteCount": 22840,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Jean-Marc Verneuil",
+    "writers": [
+      "Jean-Marc Verneuil",
+      "Hélène Roussel"
+    ],
+    "cast": [
+      {
+        "name": "Laurent Doré",
+        "role": "Bertrand Pichon",
+        "photo": "/posters/tt0000008-cast-1.jpg"
+      },
+      {
+        "name": "Mireille Carette",
+        "role": "Hélène Vassard",
+        "photo": "/posters/tt0000008-cast-2.jpg"
+      },
+      {
+        "name": "Pierre-Yves Mont",
+        "role": "Inspecteur Garnier",
+        "photo": "/posters/tt0000008-cast-3.jpg"
+      },
+      {
+        "name": "Édith Lambert",
+        "role": "Madame Roux",
+        "photo": "/posters/tt0000008-cast-4.jpg"
+      },
+      {
+        "name": "Hugo Sénéchal",
+        "role": "Loïc \"Le Patron\" Marchais",
+        "photo": "/posters/tt0000008-cast-5.jpg"
+      }
+    ],
+    "synopsis": "A petty Parisian forger receives an anonymous typewritten letter at eleven o'clock one Tuesday morning, naming the person who will betray him by Friday. As he tries to outmaneuver each of the five names on his short list of suspects, he begins to suspect that the letter's author is himself — written eleven days from now, or remembered from eleven years ago. By Friday, he is no longer certain which.",
+    "tagline": "Quelqu'un sait. Bientôt, tout le monde.",
+    "poster": "/posters/tt0000008.jpg",
+    "stills": [
+      "/posters/tt0000008-still1.jpg",
+      "/posters/tt0000008-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "nouvelle_vague_lover",
+        "rating": 9,
+        "title": "A perfect compact crime film",
+        "body": "Eighty-nine minutes of tightening grip. Verneuil understood that paranoia is a structural device, not a mood, and he builds it into the editing itself. Doré's face in the final twenty minutes is one of the great quiet performances of the era."
+      },
+      {
+        "author": "paris_minuit",
+        "rating": 10,
+        "title": "The masterpiece nobody saw",
+        "body": "Eclipsed at release by louder New Wave films, this one keeps revealing itself on rewatch. Every cut means something. The use of the typewriter as a sound motif is just exquisite. A film about how paranoia rewrites your own memory in real time."
+      },
+      {
+        "author": "tcmsubscriber",
+        "rating": 7,
+        "title": "Stylish, sometimes self-conscious",
+        "body": "Beautifully shot in crisp black and white, and the central conceit is gripping, but Verneuil occasionally lets his cleverness show. The third-act voiceover felt like a hedge. Still, an essential 1962 watch."
+      },
+      {
+        "author": "just_films",
+        "rating": 5,
+        "title": "Cool but cold",
+        "body": "Admire it more than I liked it. Everyone smokes, everyone monologues, the camera glides — fine, that's the era. But the characters are kept at such a deliberate emotional distance that the ending didn't land for me."
+      },
+      {
+        "author": "cinephile_arno",
+        "rating": 8,
+        "title": "Verneuil's tightest work",
+        "body": "Among the director's six features this is the most disciplined. Mireille Carette is doing wonders with very little dialogue and her final scene in the café is devastating. Restored print is worth seeking out."
+      }
+    ],
+    "releaseDate": "May 8, 1962 (France)",
+    "country": [
+      "France",
+      "Italy"
+    ],
+    "language": [
+      "French",
+      "Italian"
+    ],
+    "aka": [
+      "Onze Heures",
+      "Eleven O'Clock",
+      "Le Undici",
+      "Las Once"
+    ],
+    "filmingLocations": [
+      "9th arrondissement, Paris, Île-de-France, France",
+      "Montmartre, Paris, France",
+      "Studios de Boulogne, Boulogne-Billancourt, Île-de-France, France"
+    ],
+    "productionCompanies": [
+      "Films Aragon",
+      "Compagnie Sud-Ouest",
+      "Producciones Eldoradores"
+    ],
+    "budget": 220000,
+    "boxOffice": {
+      "grossUSCanada": 720000,
+      "openingWeekend": 48000,
+      "grossWorldwide": 1840000
+    },
+    "popularity": 5224,
+    "popularityChange": -2,
+    "certification": "NR",
+    "metascore": 88,
+    "criticReviewCount": 64,
+    "watchlistCount": 18900
+  },
+  {
+    "id": "tt0000009",
+    "title": "The Long Dial",
+    "year": 1944,
+    "runtime": 92,
+    "rating": 7.7,
+    "voteCount": 34620,
+    "genres": [
+      "Film-Noir",
+      "Crime",
+      "Mystery"
+    ],
+    "director": "Walter Krauss",
+    "writers": [
+      "Walter Krauss",
+      "Vivian Tate"
+    ],
+    "cast": [
+      {
+        "name": "Dean Galbraith",
+        "role": "Det. Sam Foley",
+        "photo": "/posters/tt0000009-cast-1.jpg"
+      },
+      {
+        "name": "Marjorie Vane",
+        "role": "Lillian Trace",
+        "photo": "/posters/tt0000009-cast-2.jpg"
+      },
+      {
+        "name": "Edgar Roach",
+        "role": "Capt. Halberg",
+        "photo": "/posters/tt0000009-cast-3.jpg"
+      },
+      {
+        "name": "Lyle Burnham",
+        "role": "Phil Dancer",
+        "photo": "/posters/tt0000009-cast-4.jpg"
+      },
+      {
+        "name": "Jean Costello",
+        "role": "Eileen",
+        "photo": "/posters/tt0000009-cast-5.jpg"
+      }
+    ],
+    "synopsis": "A Los Angeles private detective is hired to recover a stolen radio transcription disc said to contain a senator's private confession. Tracking it through the city's after-hours world of jazz clubs, rooming houses, and corrupt precincts, he discovers the senator is far from the only person willing to kill for it. The voice on the disc, when he finally hears it, is the one he least expected.",
+    "tagline": "The truth was on the air. So was the killer.",
+    "poster": "/posters/tt0000009.jpg",
+    "stills": [
+      "/posters/tt0000009-still1.jpg",
+      "/posters/tt0000009-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "classics_only",
+        "rating": 9,
+        "title": "A second-tier noir worth elevating",
+        "body": "Krauss directs with confidence and restraint. Galbraith plays his detective tired in a way that feels lived-in rather than performed. The transcription disc as a MacGuffin is genuinely clever."
+      },
+      {
+        "author": "matinee_archive",
+        "rating": 8,
+        "title": "Marjorie Vane is electric",
+        "body": "She isn't on screen for long but every scene she's in tilts the whole picture sideways. The script gives her exactly one extraordinary monologue and she does the rest with her eyes."
+      },
+      {
+        "author": "casual_classics",
+        "rating": 6,
+        "title": "Pleasant enough programmer",
+        "body": "Solid 1944 noir checklist. Wet streets, smoky offices, dame with a secret. Nothing surprises but nothing lets you down either. Worth a Saturday afternoon."
+      },
+      {
+        "author": "modernist_picks",
+        "rating": 5,
+        "title": "Looks great, sounds dated",
+        "body": "The cinematography is gorgeous in the restored print but the dialogue creaks under modern ears. Some of the supporting performances are pure radio-play stock."
+      },
+      {
+        "author": "detective_lit",
+        "rating": 8,
+        "title": "Tighter than its budget",
+        "body": "Republic Crown didn't have RKO money and you can tell, but Krauss compensates by trusting his cast and his shadows. The climax at the radio station is a genuine setpiece."
+      }
+    ],
+    "releaseDate": "August 11, 1944 (United States)",
+    "country": [
+      "United States"
+    ],
+    "language": [
+      "English"
+    ],
+    "aka": [
+      "El Dial Largo",
+      "Le Cadran Long",
+      "Lange Wellenlänge"
+    ],
+    "filmingLocations": [
+      "Hollywood, Los Angeles, California, USA",
+      "Bunker Hill, Los Angeles, California, USA",
+      "RKO Forty Acres, Culver City, California, USA"
+    ],
+    "productionCompanies": [
+      "Republic Crown Pictures",
+      "Galway-Sutton Productions"
+    ],
+    "budget": 380000,
+    "boxOffice": {
+      "grossUSCanada": 1840000,
+      "openingWeekend": 124000,
+      "grossWorldwide": 2840000
+    },
+    "popularity": 8420,
+    "popularityChange": -4,
+    "certification": "NR",
+    "metascore": 82,
+    "criticReviewCount": 28,
+    "watchlistCount": 9800
+  },
+  {
+    "id": "tt0000010",
+    "title": "Salt of the Caspian",
+    "year": 2014,
+    "runtime": 118,
+    "rating": 7.9,
+    "voteCount": 18430,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Roya Tabrizi",
+    "writers": [
+      "Roya Tabrizi"
+    ],
+    "cast": [
+      {
+        "name": "Shirin Mahmoudi",
+        "role": "Niloufar Razavi",
+        "photo": "/posters/tt0000010-cast-1.jpg"
+      },
+      {
+        "name": "Amir Daryabari",
+        "role": "Hossein Razavi",
+        "photo": "/posters/tt0000010-cast-2.jpg"
+      },
+      {
+        "name": "Mehrdad Bahrami",
+        "role": "Behrouz",
+        "photo": "/posters/tt0000010-cast-3.jpg"
+      },
+      {
+        "name": "Sahar Tehrani",
+        "role": "Mina",
+        "photo": "/posters/tt0000010-cast-4.jpg"
+      },
+      {
+        "name": "Farhad Adib",
+        "role": "Uncle Khosrow",
+        "photo": "/posters/tt0000010-cast-5.jpg"
+      }
+    ],
+    "synopsis": "A Tehran literature professor returns to her grandparents' shuttered coastal house on the Caspian to settle her late mother's estate. Her younger brother arrives a day later with news that complicates everything they thought they knew about why their mother left in the first place. Over five days of stilted meals and longer silences, the family slowly opens an envelope that should have stayed sealed.",
+    "tagline": "Some doors only open from the inside.",
+    "poster": "/posters/tt0000010.jpg",
+    "stills": [
+      "/posters/tt0000010-still1.jpg",
+      "/posters/tt0000010-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "world_cinema_devotee",
+        "rating": 10,
+        "title": "Patient, devastating, exact",
+        "body": "Tabrizi's debut is the kind of film festival audiences will be returning to in twenty years. Every line of dialogue carries the weight of what's NOT being said. Shirin Mahmoudi gives a performance of contained grief."
+      },
+      {
+        "author": "festival_circuit",
+        "rating": 8,
+        "title": "A new voice in Iranian cinema",
+        "body": "Picked it up at TIFF expecting another well-made domestic drama and got something far more disciplined. The final twenty minutes rearrange every earlier scene in your memory."
+      },
+      {
+        "author": "moderate_viewer",
+        "rating": 6,
+        "title": "Beautiful but glacial",
+        "body": "Every shot is composed like a still photograph. Which is part of the problem — it can feel airless. Patience is rewarded but the patience required is real."
+      },
+      {
+        "author": "drama_lover",
+        "rating": 9,
+        "title": "The silences do the work",
+        "body": "There's a scene of two siblings clearing a dinner table that contains more emotional information than most films manage in two hours. Restraint as a virtue."
+      },
+      {
+        "author": "tehran_film_jl",
+        "rating": 7,
+        "title": "Tabrizi's restraint is the point",
+        "body": "Some viewers will find it cold; that coldness is intentional and load-bearing. The family eats, walks, doesn't argue, leaves. By the end, you understand exactly why."
+      }
+    ],
+    "releaseDate": "February 12, 2014 (Iran)",
+    "country": [
+      "Iran",
+      "France"
+    ],
+    "language": [
+      "Persian"
+    ],
+    "aka": [
+      "نمک خزر",
+      "Sel de la Caspienne",
+      "Sale del Caspio"
+    ],
+    "filmingLocations": [
+      "Babolsar, Mazandaran Province, Iran",
+      "Bandar-e Anzali, Gilan Province, Iran",
+      "Tehran, Iran"
+    ],
+    "productionCompanies": [
+      "Khaki Pictures",
+      "Maison Verte Cinéma",
+      "Caspian Independent"
+    ],
+    "budget": 680000,
+    "boxOffice": {
+      "grossUSCanada": 84000,
+      "openingWeekend": 12400,
+      "grossWorldwide": 1340000
+    },
+    "popularity": 6418,
+    "popularityChange": 6,
+    "certification": "NR",
+    "metascore": 86,
+    "criticReviewCount": 73,
+    "watchlistCount": 12600
+  },
+  {
+    "id": "tt0000011",
+    "title": "Sergeant Major's Daughter",
+    "year": 1955,
+    "runtime": 104,
+    "rating": 7.4,
+    "voteCount": 11240,
+    "genres": [
+      "War",
+      "Drama"
+    ],
+    "director": "Geoffrey Halliwell",
+    "writers": [
+      "Geoffrey Halliwell",
+      "Anthony Pell"
+    ],
+    "cast": [
+      {
+        "name": "Audrey Hartwell",
+        "role": "Margaret Tilbury",
+        "photo": "/posters/tt0000011-cast-1.jpg"
+      },
+      {
+        "name": "Roger Vance",
+        "role": "Sgt. Maj. Hugh Tilbury",
+        "photo": "/posters/tt0000011-cast-2.jpg"
+      },
+      {
+        "name": "Edith Crampton",
+        "role": "Mrs. Beecham",
+        "photo": "/posters/tt0000011-cast-3.jpg"
+      },
+      {
+        "name": "Nigel Furlong",
+        "role": "Captain Allardyce",
+        "photo": "/posters/tt0000011-cast-4.jpg"
+      },
+      {
+        "name": "Dorothy Lane",
+        "role": "Cora",
+        "photo": "/posters/tt0000011-cast-5.jpg"
+      }
+    ],
+    "synopsis": "In the autumn of 1940, an English sergeant major's grown daughter takes charge of an evacuated London orphanage relocated to a draughty country house in Norfolk. As the Battle of Britain rages overhead and the children in her care grow more anxious by the day, she finds her own war waiting in the cold corridors of a household full of unspoken grown-up grief.",
+    "tagline": "Some wars are fought on the home front.",
+    "poster": "/posters/tt0000011.jpg",
+    "stills": [
+      "/posters/tt0000011-still1.jpg",
+      "/posters/tt0000011-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "classics_only",
+        "rating": 8,
+        "title": "A modest, decent picture",
+        "body": "Halliwell makes the wartime home-front piece without sentimentality. Audrey Hartwell holds the whole film together with quiet authority. Worth seeking out for the Norfolk landscape photography alone."
+      },
+      {
+        "author": "wartime_archive",
+        "rating": 7,
+        "title": "Unfairly forgotten",
+        "body": "Released the same year as bigger British war pictures and lost in the noise. It's smaller and slower than those but every bit as honest. The orphanage Christmas scene is devastating."
+      },
+      {
+        "author": "matinee_archive",
+        "rating": 6,
+        "title": "Solid B-feature",
+        "body": "Doesn't quite reach the top tier of Ealing-era war dramas but it's an honest, well-acted picture. Roger Vance is excellent in a thankless role."
+      },
+      {
+        "author": "casual_classics",
+        "rating": 5,
+        "title": "A bit too restrained",
+        "body": "British understatement is a virtue until it tips into emotional remoteness. Some moments here ask for a feeling the film won't quite give you. Still, very nicely shot."
+      },
+      {
+        "author": "audrey_hartwell_appreciator",
+        "rating": 9,
+        "title": "Her finest hour",
+        "body": "Before her Hollywood years, Hartwell did her best work in pictures like this. Watch the scene at the kitchen table after the bomb falls. She does almost nothing and it ruins you."
+      }
+    ],
+    "releaseDate": "March 17, 1955 (United Kingdom)",
+    "country": [
+      "United Kingdom"
+    ],
+    "language": [
+      "English"
+    ],
+    "aka": [
+      "La Hija del Sargento Mayor",
+      "Die Tochter des Feldwebels",
+      "La Fille du Sergent-Major"
+    ],
+    "filmingLocations": [
+      "Holkham, Norfolk, England, UK",
+      "Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",
+      "Whitehall, London, England, UK"
+    ],
+    "productionCompanies": [
+      "Britannia Star Films",
+      "Ealing Associated"
+    ],
+    "budget": 320000,
+    "boxOffice": {
+      "grossUSCanada": 480000,
+      "openingWeekend": 38000,
+      "grossWorldwide": 1240000
+    },
+    "popularity": 12420,
+    "popularityChange": -2,
+    "certification": "NR",
+    "metascore": 76,
+    "criticReviewCount": 19,
+    "watchlistCount": 3400
+  },
+  {
+    "id": "tt0000012",
+    "title": "Monsoon Letters",
+    "year": 2010,
+    "runtime": 152,
+    "rating": 7.5,
+    "voteCount": 142840,
+    "genres": [
+      "Musical",
+      "Romance",
+      "Drama"
+    ],
+    "director": "Aarav Bhattacharya",
+    "writers": [
+      "Aarav Bhattacharya",
+      "Priya Iyer"
+    ],
+    "cast": [
+      {
+        "name": "Devika Rao",
+        "role": "Anaya Verma",
+        "photo": "/posters/tt0000012-cast-1.jpg"
+      },
+      {
+        "name": "Rohan Khurana",
+        "role": "Tarun Mehta",
+        "photo": "/posters/tt0000012-cast-2.jpg"
+      },
+      {
+        "name": "Saanvi Joshi",
+        "role": "Pooja",
+        "photo": "/posters/tt0000012-cast-3.jpg"
+      },
+      {
+        "name": "Arjun Vaswani",
+        "role": "Vikram Verma",
+        "photo": "/posters/tt0000012-cast-4.jpg"
+      },
+      {
+        "name": "Lalita Chaudhuri",
+        "role": "Dadi",
+        "photo": "/posters/tt0000012-cast-5.jpg"
+      },
+      {
+        "name": "Imran Hossain",
+        "role": "Faisal",
+        "photo": "/posters/tt0000012-cast-6.jpg"
+      }
+    ],
+    "synopsis": "A young Mumbai post office clerk discovers a forgotten bundle of love letters in the bottom of an undelivered mail bin, all written by the same man over three monsoons in the 1970s. Determined to find both the writer and the woman he wrote to, she enlists the help of a cynical newspaper columnist. As the monsoon arrives and the city floods, the search begins to mirror their own slowly-becoming love story.",
+    "tagline": "Every monsoon brings home one letter at a time.",
+    "poster": "/posters/tt0000012.jpg",
+    "stills": [
+      "/posters/tt0000012-still1.jpg",
+      "/posters/tt0000012-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "filmi_devotee",
+        "rating": 9,
+        "title": "A return to form for Bhattacharya",
+        "body": "Two and a half hours that feel like ninety minutes. The musical numbers are integrated rather than interrupting and Devika Rao is a star turn. The rooftop sequence in the second monsoon will be played on television for decades."
+      },
+      {
+        "author": "bollywood_basics",
+        "rating": 7,
+        "title": "Charming if slightly overlong",
+        "body": "Beautiful production design, gorgeous songs, two leads with real chemistry. Could lose fifteen minutes and be perfect. As it stands, very good."
+      },
+      {
+        "author": "international_lens",
+        "rating": 8,
+        "title": "More than I expected",
+        "body": "Came in expecting a fluffy musical and got something with real emotional thoughtfulness underneath the spectacle. The treatment of the older generation's regret is unusually tender for the genre."
+      },
+      {
+        "author": "song_skipper",
+        "rating": 4,
+        "title": "Too long, too many songs",
+        "body": "Six musical numbers is a lot. Some of them stop the story dead. The actual romance is sweet but I kept reaching for the remote."
+      },
+      {
+        "author": "monsoon_film_lover",
+        "rating": 9,
+        "title": "Mumbai has never looked better",
+        "body": "Every shot of the city in the rain is a love letter in itself. The production used real monsoon weather and you can feel it. Devika Rao and Rohan Khurana are the rom-com pairing the decade was waiting for."
+      }
+    ],
+    "releaseDate": "July 16, 2010 (India)",
+    "country": [
+      "India"
+    ],
+    "language": [
+      "Hindi",
+      "English"
+    ],
+    "aka": [
+      "मानसून के खत",
+      "Cartas del Monzón",
+      "Lettres de Mousson"
+    ],
+    "filmingLocations": [
+      "Mumbai, Maharashtra, India",
+      "Bandra West, Mumbai, India",
+      "Yash Raj Studios, Andheri, Mumbai, India",
+      "Lonavala, Maharashtra, India"
+    ],
+    "productionCompanies": [
+      "Sapphire Skies Pictures",
+      "Akashvani Films",
+      "Kohinoor Entertainment"
+    ],
+    "budget": 8400000,
+    "boxOffice": {
+      "grossUSCanada": 4200000,
+      "openingWeekend": 2100000,
+      "grossWorldwide": 64000000
+    },
+    "popularity": 982,
+    "popularityChange": 11,
+    "certification": "PG",
+    "metascore": 74,
+    "criticReviewCount": 91,
+    "watchlistCount": 121000
+  },
+  {
+    "id": "tt0000013",
+    "title": "Cobre",
+    "year": 2003,
+    "runtime": 132,
+    "rating": 8.2,
+    "voteCount": 218400,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Marcelo Carvalho",
+    "writers": [
+      "Marcelo Carvalho",
+      "Inês Mota"
+    ],
+    "cast": [
+      {
+        "name": "Bruno Damasceno",
+        "role": "Dario \"Cobre\" Lessa",
+        "photo": "/posters/tt0000013-cast-1.jpg"
+      },
+      {
+        "name": "Luana Pacheco",
+        "role": "Renata Lessa",
+        "photo": "/posters/tt0000013-cast-2.jpg"
+      },
+      {
+        "name": "Tomás Albuquerque",
+        "role": "Inspetor Vital",
+        "photo": "/posters/tt0000013-cast-3.jpg"
+      },
+      {
+        "name": "Cauã Bittencourt",
+        "role": "Jovem Dario",
+        "photo": "/posters/tt0000013-cast-4.jpg"
+      },
+      {
+        "name": "Marina Dantas",
+        "role": "Dona Cesária",
+        "photo": "/posters/tt0000013-cast-5.jpg"
+      },
+      {
+        "name": "Edgar Quintanilha",
+        "role": "Pretinho",
+        "photo": "/posters/tt0000013-cast-6.jpg"
+      }
+    ],
+    "synopsis": "Across three decades in a Rio de Janeiro hillside neighborhood, three generations of one family are shaped and reshaped by the copper-wire smuggling trade that gives their patriarch his nickname. As his teenage grandson is drawn toward the same work, his elderly mother and his middle-aged daughter try to break a pattern they no longer believe can be broken. A federal investigator who has known the family for twenty years closes in.",
+    "tagline": "O cobre nunca enferruja. Mas pesa.",
+    "poster": "/posters/tt0000013.jpg",
+    "stills": [
+      "/posters/tt0000013-still1.jpg",
+      "/posters/tt0000013-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "cinema_brasileiro",
+        "rating": 10,
+        "title": "A masterpiece of contemporary Brazilian cinema",
+        "body": "Carvalho's three-generation structure works because every era feels lived-in. Bruno Damasceno gives one of the great Brazilian performances of the century — vain, tender, dangerous, all at once. Devastating ending."
+      },
+      {
+        "author": "world_cinema_devotee",
+        "rating": 9,
+        "title": "Slow-burn epic",
+        "body": "Two hours and twelve minutes that earn their length. The cinematography of the hillside neighborhood across three decades is staggering. The film does not romanticize and does not condemn; it observes."
+      },
+      {
+        "author": "matinee_archive",
+        "rating": 8,
+        "title": "Excellent ensemble work",
+        "body": "Every supporting performance is specific and lived. Marina Dantas as the matriarch deserved every award. The script's refusal to provide easy moral handholds is its great strength."
+      },
+      {
+        "author": "casual_classics",
+        "rating": 7,
+        "title": "Demanding but rewarding",
+        "body": "Subtitled, slow, three-generation structure — it's a film that asks for attention and gives it back. The first hour is the hardest; once you're in, you're in."
+      },
+      {
+        "author": "true_crime_fan",
+        "rating": 6,
+        "title": "More family drama than crime",
+        "body": "Marketed as a crime epic, it's really a family chronicle with crime as setting. That isn't a complaint exactly — just calibrate expectations. The investigator subplot felt underdeveloped."
+      }
+    ],
+    "releaseDate": "September 19, 2003 (Brazil)",
+    "country": [
+      "Brazil",
+      "France"
+    ],
+    "language": [
+      "Portuguese"
+    ],
+    "aka": [
+      "Copper",
+      "Cuivre",
+      "Cobre - Tres Generaciones"
+    ],
+    "filmingLocations": [
+      "Rio de Janeiro, Brazil",
+      "Santa Marta favela, Rio de Janeiro, Brazil",
+      "Niterói, Rio de Janeiro, Brazil",
+      "Cinecittà Lab Rio, Rio de Janeiro, Brazil"
+    ],
+    "productionCompanies": [
+      "O Mangue Filmes",
+      "Pequeno Sol Produções",
+      "Pyramide International"
+    ],
+    "budget": 4200000,
+    "boxOffice": {
+      "grossUSCanada": 1840000,
+      "openingWeekend": 218000,
+      "grossWorldwide": 18420000
+    },
+    "popularity": 1247,
+    "popularityChange": 4,
+    "certification": "R",
+    "metascore": 91,
+    "criticReviewCount": 142,
+    "watchlistCount": 89400
+  },
+  {
+    "id": "tt0000014",
+    "title": "Eighteen Streets",
+    "year": 1993,
+    "runtime": 98,
+    "rating": 7.6,
+    "voteCount": 64280,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Stanley Wong",
+    "writers": [
+      "Stanley Wong",
+      "Karen Cheung"
+    ],
+    "cast": [
+      {
+        "name": "Ronnie Lam",
+        "role": "Inspector Lo Tin-yau",
+        "photo": "/posters/tt0000014-cast-1.jpg"
+      },
+      {
+        "name": "Carmen Yip",
+        "role": "May Chan",
+        "photo": "/posters/tt0000014-cast-2.jpg"
+      },
+      {
+        "name": "Bobby Sze",
+        "role": "Hung \"Eighteen\" Kwok",
+        "photo": "/posters/tt0000014-cast-3.jpg"
+      },
+      {
+        "name": "Wendy Kong",
+        "role": "Sergeant Tsang",
+        "photo": "/posters/tt0000014-cast-4.jpg"
+      },
+      {
+        "name": "Patrick Mok",
+        "role": "Old Wai",
+        "photo": "/posters/tt0000014-cast-5.jpg"
+      }
+    ],
+    "synopsis": "A Hong Kong police inspector hunts a triad enforcer known only by the eighteen streets that mark the perimeter of his territory in Mongkok. As the inspector's investigation tightens, the enforcer takes a young restaurant owner hostage — and the two men discover they were boyhood neighbors on streets that no longer exist. The final chase covers all eighteen.",
+    "tagline": "Eighteen streets. One night. No corners left.",
+    "poster": "/posters/tt0000014.jpg",
+    "stills": [
+      "/posters/tt0000014-still1.jpg",
+      "/posters/tt0000014-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "hk_action_devotee",
+        "rating": 9,
+        "title": "Underrated 1990s HK gem",
+        "body": "Wong's choreography of the rain-soaked alley shootout deserves to be on every action-cinema syllabus. Ronnie Lam plays his cop tired and credible. The emotional beats actually land between the gunfire."
+      },
+      {
+        "author": "wuxia_warrior",
+        "rating": 8,
+        "title": "Tight, lean, gorgeous",
+        "body": "Ninety-eight minutes is exactly the right runtime. No subplot overstays. The neon-soaked nighttime cinematography of Mongkok looks like a postcard from a city that doesn't fully exist anymore."
+      },
+      {
+        "author": "modern_action_fan",
+        "rating": 6,
+        "title": "Familiar but well-executed",
+        "body": "Hits all the HK 90s action beats — police-vs-triad, childhood-connection twist, rooftop chase, restaurant shootout. Nothing new, but executed with real craft. Worth the watch for fans of the era."
+      },
+      {
+        "author": "casual_classics",
+        "rating": 7,
+        "title": "Stylish and grounded",
+        "body": "More restrained than its bigger contemporaries — fewer setpieces, more character work. The hostage middle act is genuinely tense. Carmen Yip is wasted in an underwritten role."
+      },
+      {
+        "author": "neon_film_archivist",
+        "rating": 8,
+        "title": "A document of vanished Mongkok",
+        "body": "Half the streets shown here have since been redeveloped beyond recognition. The film accidentally became an urban history record. Also it's a great thriller. Two for one."
+      }
+    ],
+    "releaseDate": "October 8, 1993 (Hong Kong)",
+    "country": [
+      "Hong Kong"
+    ],
+    "language": [
+      "Cantonese"
+    ],
+    "aka": [
+      "十八街",
+      "Dix-Huit Rues",
+      "Diciotto Strade"
+    ],
+    "filmingLocations": [
+      "Mongkok, Kowloon, Hong Kong",
+      "Yau Ma Tei, Kowloon, Hong Kong",
+      "Shaw Brothers Studios, Clear Water Bay, Hong Kong"
+    ],
+    "productionCompanies": [
+      "Golden Lion Pictures HK",
+      "Wong & Cheung Productions",
+      "Diamond Hill Films"
+    ],
+    "budget": 2400000,
+    "boxOffice": {
+      "grossUSCanada": 1240000,
+      "openingWeekend": 318000,
+      "grossWorldwide": 12400000
+    },
+    "popularity": 3214,
+    "popularityChange": 17,
+    "certification": "R",
+    "metascore": 78,
+    "criticReviewCount": 47,
+    "watchlistCount": 38400
+  },
+  {
+    "id": "tt0000015",
+    "title": "The Cartographer's Daughter",
+    "year": 2019,
+    "runtime": 94,
+    "rating": 7.8,
+    "voteCount": 12840,
+    "genres": [
+      "Documentary",
+      "Biography"
+    ],
+    "director": "Mira Kavanagh",
+    "writers": [
+      "Mira Kavanagh"
+    ],
+    "cast": [
+      {
+        "name": "Helena Bridger",
+        "role": "Self — subject",
+        "photo": "/posters/tt0000015-cast-1.jpg"
+      },
+      {
+        "name": "Lawrence Bridger",
+        "role": "Self — late father (archival)",
+        "photo": "/posters/tt0000015-cast-2.jpg"
+      },
+      {
+        "name": "Aileen Park",
+        "role": "Self — historian",
+        "photo": "/posters/tt0000015-cast-3.jpg"
+      },
+      {
+        "name": "Ron Hatcher",
+        "role": "Self — Nevada native, ghost-town caretaker",
+        "photo": "/posters/tt0000015-cast-4.jpg"
+      }
+    ],
+    "synopsis": "Helena Bridger spent fifteen years walking, mapping, and photographing the abandoned mining settlements her late father had charted in the 1970s. This documentary follows her final season of fieldwork across Nevada, Utah, and southeastern California, weaving her father's original survey notebooks and 8mm film with her own present-day footage. What emerges is less a record of empty towns than a quiet conversation between a daughter and a man no longer there to answer.",
+    "tagline": "The map is also a letter.",
+    "poster": "/posters/tt0000015.jpg",
+    "stills": [
+      "/posters/tt0000015-still1.jpg",
+      "/posters/tt0000015-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "doc_circuit",
+        "rating": 9,
+        "title": "A small, perfect documentary",
+        "body": "Kavanagh trusts her subject and her landscape. Helena Bridger is a soft-spoken on-camera presence whose quiet generates extraordinary attention. The 8mm-to-digital intercutting is the structural backbone and it works."
+      },
+      {
+        "author": "festival_circuit",
+        "rating": 9,
+        "title": "Quietly devastating",
+        "body": "I went in for the maps and stayed for the grief. The scene at the Belmont mineshaft where she reads from his last notebook is one of the most affecting things I've seen this year."
+      },
+      {
+        "author": "casual_doc_fan",
+        "rating": 7,
+        "title": "Patient and rewarding",
+        "body": "Not flashy at all — no narrator, no urgent music, lots of wind. Once you settle in, the rhythm becomes the point. Beautiful photography of the basin-and-range landscape."
+      },
+      {
+        "author": "skeptical_critic",
+        "rating": 5,
+        "title": "Too in love with its own slowness",
+        "body": "The pacing crosses from contemplative into static for me. The archival material is wonderful; the present-day footage sometimes drags. Would have made a stunning forty-minute short."
+      },
+      {
+        "author": "nevada_lifer",
+        "rating": 8,
+        "title": "Captures the basin honestly",
+        "body": "As somebody who grew up out here, the film actually gets the light right. So many movies set in Nevada don't. Watch the dawn sequence at Berlin and tell me that isn't the real thing."
+      }
+    ],
+    "releaseDate": "April 6, 2019 (United States)",
+    "country": [
+      "United States"
+    ],
+    "language": [
+      "English"
+    ],
+    "aka": [
+      "La Hija del Cartógrafo",
+      "Die Tochter des Kartografen",
+      "La Fille du Cartographe"
+    ],
+    "filmingLocations": [
+      "Berlin, Nevada, USA",
+      "Goldfield, Nevada, USA",
+      "Bodie, California, USA",
+      "Eureka, Utah, USA"
+    ],
+    "productionCompanies": [
+      "Basin and Range Films",
+      "Slow Atlas Pictures",
+      "Independent Lens"
+    ],
+    "budget": 480000,
+    "boxOffice": {
+      "grossUSCanada": 142000,
+      "openingWeekend": 8400,
+      "grossWorldwide": 318000
+    },
+    "popularity": 9842,
+    "popularityChange": 3,
+    "certification": "NR",
+    "metascore": 89,
+    "criticReviewCount": 42,
+    "watchlistCount": 8200
+  },
+  {
+    "id": "tt0000016",
+    "title": "Sal de Jaguar",
+    "year": 2008,
+    "runtime": 116,
+    "rating": 8,
+    "voteCount": 84210,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Catalina Olvera",
+    "writers": [
+      "Catalina Olvera",
+      "Tomás Yáñez"
+    ],
+    "cast": [
+      {
+        "name": "Lucia Martín del Campo",
+        "role": "Tía Rufina",
+        "photo": "/posters/tt0000016-cast-1.jpg"
+      },
+      {
+        "name": "Aldo Carbajal",
+        "role": "Pablo",
+        "photo": "/posters/tt0000016-cast-2.jpg"
+      },
+      {
+        "name": "Isabela Quezada",
+        "role": "Niña Soledad",
+        "photo": "/posters/tt0000016-cast-3.jpg"
+      },
+      {
+        "name": "Felipe Quiñones",
+        "role": "Don Ezequiel",
+        "photo": "/posters/tt0000016-cast-4.jpg"
+      },
+      {
+        "name": "Margarita Vela",
+        "role": "La Curandera",
+        "photo": "/posters/tt0000016-cast-5.jpg"
+      }
+    ],
+    "synopsis": "In a high-desert village in Oaxaca, an elderly woman begins selling tiny clay jars of black salt she claims came from the tears of a jaguar that visited her in the night. Word spreads, customers arrive, and the village's young schoolteacher returns from the city to investigate what is happening to his aunt. Whether the jaguar is real, hallucinated, or something the village agrees to share matters less and less as the season turns.",
+    "tagline": "Lo que la sal cura no se olvida.",
+    "poster": "/posters/tt0000016.jpg",
+    "stills": [
+      "/posters/tt0000016-still1.jpg",
+      "/posters/tt0000016-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "cinema_mexicano",
+        "rating": 10,
+        "title": "Olvera's quiet masterpiece",
+        "body": "Magical realism done with discipline and care. The film never explains its central image and is the stronger for it. Lucia Martín del Campo's face in the final scene contains an entire generation of grief and humor."
+      },
+      {
+        "author": "festival_circuit",
+        "rating": 9,
+        "title": "A new Mexican classic",
+        "body": "Picked it up at San Sebastián and have been recommending it ever since. The pacing is unhurried in a way that requires you to slow down with it. The Oaxacan light is its own performance."
+      },
+      {
+        "author": "magical_realism_buff",
+        "rating": 8,
+        "title": "Earnest and earned",
+        "body": "Belongs in the lineage of Mexican films that take the supernatural seriously without making it cute or campy. Catalina Olvera respects her village setting as much as her camera."
+      },
+      {
+        "author": "literal_minded",
+        "rating": 5,
+        "title": "If you need explanations, look elsewhere",
+        "body": "The film actively resists telling you what is and isn't real. That's a feature for some viewers and a bug for me. Beautifully made, just not my register."
+      },
+      {
+        "author": "spanish_lang_film_jl",
+        "rating": 8,
+        "title": "Patient, tender, surprising",
+        "body": "I expected another social-realist Mexican drama and got something genuinely strange and warm. The schoolteacher's slow softening is wonderfully written."
+      }
+    ],
+    "releaseDate": "October 3, 2008 (Mexico)",
+    "country": [
+      "Mexico",
+      "Spain"
+    ],
+    "language": [
+      "Spanish"
+    ],
+    "aka": [
+      "Salt of the Jaguar",
+      "Le Sel du Jaguar",
+      "Jaguar's Tears"
+    ],
+    "filmingLocations": [
+      "Sierra Mixe, Oaxaca, Mexico",
+      "San Mateo del Mar, Oaxaca, Mexico",
+      "Estudios Churubusco Azteca, Mexico City, Mexico"
+    ],
+    "productionCompanies": [
+      "Polvora Cine",
+      "Producciones del Sol",
+      "Estudios Madrid Sur"
+    ],
+    "budget": 1800000,
+    "boxOffice": {
+      "grossUSCanada": 384000,
+      "openingWeekend": 28000,
+      "grossWorldwide": 4280000
+    },
+    "popularity": 2148,
+    "popularityChange": 9,
+    "certification": "PG-13",
+    "metascore": 90,
+    "criticReviewCount": 88,
+    "watchlistCount": 41200
+  },
+  {
+    "id": "tt0000017",
+    "title": "Aprilsmörker",
+    "year": 1978,
+    "runtime": 108,
+    "rating": 7.8,
+    "voteCount": 28420,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Bo Halvarsson",
+    "writers": [
+      "Bo Halvarsson"
+    ],
+    "cast": [
+      {
+        "name": "Eva Sundberg",
+        "role": "Karin Lindh",
+        "photo": "/posters/tt0000017-cast-1.jpg"
+      },
+      {
+        "name": "Lennart Brink",
+        "role": "Anders Lindh",
+        "photo": "/posters/tt0000017-cast-2.jpg"
+      },
+      {
+        "name": "Margareta Holm",
+        "role": "Greta",
+        "photo": "/posters/tt0000017-cast-3.jpg"
+      },
+      {
+        "name": "Olof Wennström",
+        "role": "Pastor Forsberg",
+        "photo": "/posters/tt0000017-cast-4.jpg"
+      }
+    ],
+    "synopsis": "A husband and wife retreat to her family's island summer house on the Stockholm archipelago at the wrong time of year — early April, when the cold sea is still grey and the village hasn't reopened. Over five days of long silences, longer walks, and one unwanted visitor, the marriage they have been carefully managing for fifteen years comes apart in the dim half-light of a Swedish spring that hasn't yet arrived.",
+    "tagline": "Det är ljuset som ger sig av först.",
+    "poster": "/posters/tt0000017.jpg",
+    "stills": [
+      "/posters/tt0000017-still1.jpg",
+      "/posters/tt0000017-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "art_house_devotee",
+        "rating": 9,
+        "title": "Halvarsson at his most exact",
+        "body": "Spare even by his standards, this is a film of empty rooms and unfinished sentences. Eva Sundberg's central performance is one of the great quiet acts of Scandinavian cinema. Devastating and inevitable."
+      },
+      {
+        "author": "world_cinema_devotee",
+        "rating": 8,
+        "title": "Cold and clear",
+        "body": "If you respond to Bergman you'll respond to this. Halvarsson is his own filmmaker but the lineage is honest. The seasonal use of the half-grey April light is genuinely structural."
+      },
+      {
+        "author": "moderate_viewer",
+        "rating": 6,
+        "title": "Beautiful but punishing",
+        "body": "I admired this more than I enjoyed it. The film commits to its mood with no relief, no comic beat, no breath. Some will love that; I wanted one window in the wall."
+      },
+      {
+        "author": "cinephile_arno",
+        "rating": 9,
+        "title": "A perfect minor masterpiece",
+        "body": "Halvarsson made smaller films than his contemporaries and was rewarded with smaller audiences. This deserves rediscovery. The visit-from-the-pastor scene is fifteen minutes of held breath."
+      },
+      {
+        "author": "scandi_film_lover",
+        "rating": 7,
+        "title": "Bleak, sure, but skilled",
+        "body": "Every shot of the archipelago in early April could be a postcard from a depression. The marriage's dissolution is observed with surgical clarity. Not exactly fun but properly made."
+      }
+    ],
+    "releaseDate": "September 22, 1978 (Sweden)",
+    "country": [
+      "Sweden",
+      "Denmark"
+    ],
+    "language": [
+      "Swedish"
+    ],
+    "aka": [
+      "April Dark",
+      "Ténèbres d'Avril",
+      "Aprilfinsternis"
+    ],
+    "filmingLocations": [
+      "Möja Island, Stockholm Archipelago, Sweden",
+      "Sandhamn, Stockholm Archipelago, Sweden",
+      "Filmstaden, Råsunda, Solna, Sweden"
+    ],
+    "productionCompanies": [
+      "Nordlys Filmproduktion",
+      "Halvarsson Studio",
+      "Dansk Filminstitut"
+    ],
+    "budget": 540000,
+    "boxOffice": {
+      "grossUSCanada": 142000,
+      "openingWeekend": 8200,
+      "grossWorldwide": 880000
+    },
+    "popularity": 7842,
+    "popularityChange": -1,
+    "certification": "NR",
+    "metascore": 87,
+    "criticReviewCount": 41,
+    "watchlistCount": 11200
+  },
+  {
+    "id": "tt0000018",
+    "title": "Compass & Cloud",
+    "year": 2017,
+    "runtime": 98,
+    "rating": 7.7,
+    "voteCount": 218400,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Hank Pittman",
+    "writers": [
+      "Hank Pittman",
+      "Daphne Ko",
+      "Russell Vintner"
+    ],
+    "cast": [
+      {
+        "name": "Sadie Ortelius",
+        "role": "Bea (voice)",
+        "photo": "/posters/tt0000018-cast-1.jpg"
+      },
+      {
+        "name": "Marcus Polo",
+        "role": "Compass the Fox (voice)",
+        "photo": "/posters/tt0000018-cast-2.jpg"
+      },
+      {
+        "name": "Tina Rooke",
+        "role": "Cloud the Whale (voice)",
+        "photo": "/posters/tt0000018-cast-3.jpg"
+      },
+      {
+        "name": "Brian Hadley",
+        "role": "Lighthouse Keeper (voice)",
+        "photo": "/posters/tt0000018-cast-4.jpg"
+      },
+      {
+        "name": "Wendy Joon",
+        "role": "Aunt Pell (voice)",
+        "photo": "/posters/tt0000018-cast-5.jpg"
+      }
+    ],
+    "synopsis": "A nine-year-old girl living on a tiny coastal island befriends two impossible companions: a brass-buttoned fox who claims to be a retired compass and a quiet sky-blue whale who introduces herself only as Cloud. When the lighthouse stops working and the island's birds begin flying the wrong way home, the three set off across the strait to find out what has gone wrong with the world's directions.",
+    "tagline": "Find your bearings. Lose them. Find new ones.",
+    "poster": "/posters/tt0000018.jpg",
+    "stills": [
+      "/posters/tt0000018-still1.jpg",
+      "/posters/tt0000018-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "animation_devotee",
+        "rating": 9,
+        "title": "A gentle, beautiful film",
+        "body": "Pittman's debut feature trusts its audience — including the youngest viewers — with quiet pacing and emotional patience. The Compass-and-Cloud dynamic is wonderfully voice-acted. Wept twice. Will rewatch."
+      },
+      {
+        "author": "family_movie_night",
+        "rating": 8,
+        "title": "Lovely without being saccharine",
+        "body": "Our seven-year-old asked to watch it again immediately. Our eleven-year-old quietly cried in the third act. The grown-ups thought about their own parents the whole way home."
+      },
+      {
+        "author": "modern_animation_critic",
+        "rating": 9,
+        "title": "A small studio's huge swing",
+        "body": "Crescent-Pier Animation made this on a fraction of a major studio's budget and it shows in the best possible way — every frame is hand-considered. The whale design alone is iconic."
+      },
+      {
+        "author": "cynical_dad",
+        "rating": 6,
+        "title": "Charming but slight",
+        "body": "Genuinely sweet and beautifully made. Whether it will mean anything to anyone after the credits, I'm less sure. Nice afternoon, won't think about it next week."
+      },
+      {
+        "author": "voice_actor_fan",
+        "rating": 8,
+        "title": "Marcus Polo is wonderful",
+        "body": "His Compass the Fox is half-stage-magician, half-tired-grandfather, fully alive. Tina Rooke's whale speaks maybe thirty words across the whole film and every one matters."
+      }
+    ],
+    "releaseDate": "November 17, 2017 (United States)",
+    "country": [
+      "United States"
+    ],
+    "language": [
+      "English"
+    ],
+    "aka": [
+      "Brújula y Nube",
+      "Boussole et Nuage",
+      "Kompass und Wolke"
+    ],
+    "filmingLocations": [
+      "Crescent-Pier Animation Studios, Portland, Oregon, USA"
+    ],
+    "productionCompanies": [
+      "Crescent-Pier Animation",
+      "Lantern Brook Studios",
+      "Coastline Pictures"
+    ],
+    "budget": 38000000,
+    "boxOffice": {
+      "grossUSCanada": 84000000,
+      "openingWeekend": 18400000,
+      "grossWorldwide": 184000000
+    },
+    "popularity": 642,
+    "popularityChange": 12,
+    "certification": "PG",
+    "metascore": 84,
+    "criticReviewCount": 198,
+    "watchlistCount": 184000
+  },
+  {
+    "id": "tt0000019",
+    "title": "Mound Glory",
+    "year": 1998,
+    "runtime": 128,
+    "rating": 7.6,
+    "voteCount": 41280,
+    "genres": [
+      "Biography",
+      "Sport",
+      "Drama"
+    ],
+    "director": "Marshall Kaminski",
+    "writers": [
+      "Marshall Kaminski",
+      "Cornell Pratt"
+    ],
+    "cast": [
+      {
+        "name": "Curtis Harlow",
+        "role": "Eli \"Lefty\" Booker",
+        "photo": "/posters/tt0000019-cast-1.jpg"
+      },
+      {
+        "name": "Adaora Greaves",
+        "role": "Pearl Booker",
+        "photo": "/posters/tt0000019-cast-2.jpg"
+      },
+      {
+        "name": "Marcus Bell",
+        "role": "Catcher Roy Joyner",
+        "photo": "/posters/tt0000019-cast-3.jpg"
+      },
+      {
+        "name": "Jacob Tashjian",
+        "role": "Sportswriter Hal Vance",
+        "photo": "/posters/tt0000019-cast-4.jpg"
+      },
+      {
+        "name": "Lonnie Fairchild",
+        "role": "Coach Stennett",
+        "photo": "/posters/tt0000019-cast-5.jpg"
+      }
+    ],
+    "synopsis": "Across two decades in the Negro Leagues, a left-handed pitcher from rural Tennessee carves out a quietly extraordinary career while the world that should have known his name looks the other way. Told largely through the eyes of the wife who watches him give and give and give to a game that never quite gives back, the film closes on the year he was finally invited to try out for the major leagues — at forty-one, two years too late.",
+    "tagline": "He threw against the wind for twenty years.",
+    "poster": "/posters/tt0000019.jpg",
+    "stills": [
+      "/posters/tt0000019-still1.jpg",
+      "/posters/tt0000019-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "baseball_historian",
+        "rating": 9,
+        "title": "The biopic this story deserved",
+        "body": "Kaminski wisely avoids the temptation to invent dramatic flourishes the real story didn't need. Curtis Harlow's central performance is full of contained, earned dignity. The road-game sequences across the Negro Leagues circuit are beautifully observed."
+      },
+      {
+        "author": "sports_drama_fan",
+        "rating": 8,
+        "title": "Adaora Greaves is the heart",
+        "body": "She plays Pearl Booker as the witness, the conscience, and the cost. The film is technically about the pitcher but she's the one you remember. Wonderful work."
+      },
+      {
+        "author": "casual_movie_fan",
+        "rating": 7,
+        "title": "Solid, a little long",
+        "body": "Twenty-eight minutes could probably come out of this and not be missed. But the moments that work, really work. The final shot is unforgettable."
+      },
+      {
+        "author": "modernist_picks",
+        "rating": 6,
+        "title": "Conventional in form",
+        "body": "Hits every biopic beat — small-town beginnings, road struggles, missed-it-by-that-much ending. Executed well, but if you've seen one prestige sports biopic you'll see this coming. Performances are very strong."
+      },
+      {
+        "author": "negro_leagues_fan",
+        "rating": 9,
+        "title": "Finally",
+        "body": "These stories deserve films and rarely get them. Kaminski did his homework and it shows in every small detail — the uniforms, the buses, the lighting on small-town fields at dusk. Important and moving."
+      }
+    ],
+    "releaseDate": "September 11, 1998 (United States)",
+    "country": [
+      "United States"
+    ],
+    "language": [
+      "English"
+    ],
+    "aka": [
+      "Gloria del Montículo",
+      "Gloire du Monticule",
+      "Stolz auf dem Hügel"
+    ],
+    "filmingLocations": [
+      "Memphis, Tennessee, USA",
+      "Birmingham, Alabama, USA",
+      "Negro Leagues Baseball Museum, Kansas City, Missouri, USA",
+      "Rickwood Field, Birmingham, Alabama, USA"
+    ],
+    "productionCompanies": [
+      "Twin Mound Pictures",
+      "Birmingham Light Films",
+      "Crescent Hills Productions"
+    ],
+    "budget": 18000000,
+    "boxOffice": {
+      "grossUSCanada": 28400000,
+      "openingWeekend": 4800000,
+      "grossWorldwide": 42000000
+    },
+    "popularity": 2841,
+    "popularityChange": -1,
+    "certification": "PG-13",
+    "metascore": 81,
+    "criticReviewCount": 124,
+    "watchlistCount": 21800
+  },
+  {
+    "id": "tt0000020",
+    "title": "Gli Specchi di Sangue",
+    "year": 1965,
+    "runtime": 91,
+    "rating": 7,
+    "voteCount": 24820,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Bruno Fantelli",
+    "writers": [
+      "Bruno Fantelli",
+      "Renata Buccoliero"
+    ],
+    "cast": [
+      {
+        "name": "Stefano Vannini",
+        "role": "Ispettore Ricci",
+        "photo": "/posters/tt0000020-cast-1.jpg"
+      },
+      {
+        "name": "Lucia Tassoni",
+        "role": "Contessa Veroni",
+        "photo": "/posters/tt0000020-cast-2.jpg"
+      },
+      {
+        "name": "Marco Brignole",
+        "role": "Antiquario Pavan",
+        "photo": "/posters/tt0000020-cast-3.jpg"
+      },
+      {
+        "name": "Elisabetta Sancho",
+        "role": "Adriana",
+        "photo": "/posters/tt0000020-cast-4.jpg"
+      },
+      {
+        "name": "Gianni Pelliccia",
+        "role": "Don Severino",
+        "photo": "/posters/tt0000020-cast-5.jpg"
+      }
+    ],
+    "synopsis": "In a Milan villa heavy with antique mirrors, three women associated with a single dealer in rare gilt-framed glass have died within a month — each found at her own dressing table, throat opened by a shard from her own mirror. A Roman inspector summoned north finds the household guarding more than one secret. The mirrors keep showing him things that were never there.",
+    "tagline": "Lo specchio non mente. Mai.",
+    "poster": "/posters/tt0000020.jpg",
+    "stills": [
+      "/posters/tt0000020-still1.jpg",
+      "/posters/tt0000020-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "giallo_collector",
+        "rating": 9,
+        "title": "Early-period giallo at its most stylish",
+        "body": "Fantelli isn't the household name some of his peers became but this film makes the case that he should have been. The mirror imagery is consistently inventive and the lavender-and-blood color palette is gorgeous."
+      },
+      {
+        "author": "italian_horror_fan",
+        "rating": 8,
+        "title": "Beautiful, bloody, slightly silly",
+        "body": "Story makes about seventy percent sense and that's fine — the genre runs on atmosphere and Fantelli has it in abundance. The villa setting is a third character."
+      },
+      {
+        "author": "casual_horror_fan",
+        "rating": 6,
+        "title": "Gorgeous but dated",
+        "body": "Restored print looks like a stained-glass window. The acting and dialogue are pure mid-60s European pulp. Take it on those terms and you'll have a good time."
+      },
+      {
+        "author": "modernist_picks",
+        "rating": 5,
+        "title": "Style over coherence",
+        "body": "Visually fantastic but the plot creaks audibly. The killer's identity hinges on a coincidence the film doesn't earn. Still worth a watch for the camera work alone."
+      },
+      {
+        "author": "vintage_horror_jl",
+        "rating": 7,
+        "title": "Patient predecessor",
+        "body": "Predates the giallo boom proper and you can see directors who came after stealing from it shot for shot. The dressing-table set piece in the second act is iconic."
+      }
+    ],
+    "releaseDate": "December 17, 1965 (Italy)",
+    "country": [
+      "Italy",
+      "Spain"
+    ],
+    "language": [
+      "Italian"
+    ],
+    "aka": [
+      "Mirrors of Blood",
+      "Miroirs de Sang",
+      "Espejos de Sangre"
+    ],
+    "filmingLocations": [
+      "Villa Reale, Monza, Lombardy, Italy",
+      "Cinecittà Studios, Rome, Italy",
+      "Madrid, Spain"
+    ],
+    "productionCompanies": [
+      "Luna Nera Cinematografica",
+      "Cineproduzioni Adriatiche",
+      "Estudios Madrid Sur"
+    ],
+    "budget": 540000,
+    "boxOffice": {
+      "grossUSCanada": 384000,
+      "openingWeekend": 24000,
+      "grossWorldwide": 1840000
+    },
+    "popularity": 6418,
+    "popularityChange": 4,
+    "certification": "R",
+    "metascore": 71,
+    "criticReviewCount": 32,
+    "watchlistCount": 16400
+  },
+  {
+    "id": "tt0000021",
+    "title": "Veldt of Stones",
+    "year": 2021,
+    "runtime": 124,
+    "rating": 8,
+    "voteCount": 42180,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Naledi Mbeki",
+    "writers": [
+      "Naledi Mbeki",
+      "Pieter du Plessis"
+    ],
+    "cast": [
+      {
+        "name": "Khanyi Sokhulu",
+        "role": "Lerato Khumalo",
+        "photo": "/posters/tt0000021-cast-1.jpg"
+      },
+      {
+        "name": "Daniel van Reenen",
+        "role": "Hennie Bezuidenhout",
+        "photo": "/posters/tt0000021-cast-2.jpg"
+      },
+      {
+        "name": "Sipho Mtolo",
+        "role": "Old Man Velile",
+        "photo": "/posters/tt0000021-cast-3.jpg"
+      },
+      {
+        "name": "Anika Botha",
+        "role": "Marlie Bezuidenhout",
+        "photo": "/posters/tt0000021-cast-4.jpg"
+      },
+      {
+        "name": "Thando Ncube",
+        "role": "Sister Pretty",
+        "photo": "/posters/tt0000021-cast-5.jpg"
+      }
+    ],
+    "synopsis": "A Johannesburg journalist returns to the Karoo farm where her grandmother worked as a domestic for forty years, to confront the family that employed her with a document her grandmother left behind. The aging Afrikaner widower who reads it has been waiting decades for the conversation it forces. Across a week of careful meals, longer walks, and one storm that knocks out the power, two histories of the same kitchen begin to argue with each other.",
+    "tagline": "Some land remembers what its owners forget.",
+    "poster": "/posters/tt0000021.jpg",
+    "stills": [
+      "/posters/tt0000021-still1.jpg",
+      "/posters/tt0000021-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "world_cinema_devotee",
+        "rating": 10,
+        "title": "A landmark South African film",
+        "body": "Mbeki's first feature lands with the weight of a director who has been thinking about every shot for years. The Karoo landscape becomes a moral character. Khanyi Sokhulu's performance is contained fury and learned grace at once."
+      },
+      {
+        "author": "festival_circuit",
+        "rating": 9,
+        "title": "Devastatingly precise",
+        "body": "Won the audience award at three festivals and deserved each one. The kitchen-table scenes between Sokhulu and van Reenen are master classes in how to film two people listening to each other slowly losing footing."
+      },
+      {
+        "author": "drama_lover",
+        "rating": 8,
+        "title": "Patient and necessary",
+        "body": "Demands attention and rewards it. Some of the political context will be denser for non-South-African viewers but the human story carries across without effort."
+      },
+      {
+        "author": "skeptical_critic",
+        "rating": 6,
+        "title": "Important but heavy-handed in places",
+        "body": "The film knows it is saying important things and occasionally lets you know it knows. The best scenes — and there are many — let the silence speak. The worst ones lecture."
+      },
+      {
+        "author": "karoo_lifer",
+        "rating": 9,
+        "title": "They got the wind right",
+        "body": "Films set in the Karoo usually feel like they were shot by people who flew in for a week. This one feels like it was shot by people who slept there. The light, the dust, the silence between cicadas — all of it."
+      }
+    ],
+    "releaseDate": "October 1, 2021 (South Africa)",
+    "country": [
+      "South Africa",
+      "United Kingdom"
+    ],
+    "language": [
+      "English",
+      "Afrikaans",
+      "isiZulu"
+    ],
+    "aka": [
+      "Klipveld",
+      "Veld de Piedras",
+      "Champ de Pierres"
+    ],
+    "filmingLocations": [
+      "Karoo, Northern Cape, South Africa",
+      "Sutherland, Northern Cape, South Africa",
+      "Johannesburg, Gauteng, South Africa"
+    ],
+    "productionCompanies": [
+      "Aurora Sky Pictures",
+      "Karoo Light Films",
+      "BBC Films"
+    ],
+    "budget": 2400000,
+    "boxOffice": {
+      "grossUSCanada": 412000,
+      "openingWeekend": 28000,
+      "grossWorldwide": 3840000
+    },
+    "popularity": 1842,
+    "popularityChange": 14,
+    "certification": "PG-13",
+    "metascore": 92,
+    "criticReviewCount": 118,
+    "watchlistCount": 38400
+  },
+  {
+    "id": "tt0000022",
+    "title": "Driver's Permit",
+    "year": 1986,
+    "runtime": 94,
+    "rating": 6.8,
+    "voteCount": 84620,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Wendy Sokolsky",
+    "writers": [
+      "Wendy Sokolsky"
+    ],
+    "cast": [
+      {
+        "name": "Trip Mancuso",
+        "role": "Eddie Lankford",
+        "photo": "/posters/tt0000022-cast-1.jpg"
+      },
+      {
+        "name": "Bea Holcombe",
+        "role": "Tess Ramos",
+        "photo": "/posters/tt0000022-cast-2.jpg"
+      },
+      {
+        "name": "Skipper Vail",
+        "role": "Coach Wally",
+        "photo": "/posters/tt0000022-cast-3.jpg"
+      },
+      {
+        "name": "Frankie Pelusi",
+        "role": "Donnie \"Booger\" Brescia",
+        "photo": "/posters/tt0000022-cast-4.jpg"
+      },
+      {
+        "name": "Maria Espinosa-Reed",
+        "role": "Mrs. Lankford",
+        "photo": "/posters/tt0000022-cast-5.jpg"
+      }
+    ],
+    "synopsis": "In the summer of 1985, a sixteen-year-old in suburban New Jersey loses his learner's permit for the eleventh time and is sentenced by his mother to a Saturday driver's-ed class taught by the worst gym coach in the county. There he meets a girl with her own reasons for failing the test repeatedly. Over six Saturdays, four borrowed station wagons, and one truly ill-advised trip to the shore, they figure out approximately nothing about driving and almost everything about each other.",
+    "tagline": "Some teens are road-ready. Others are not.",
+    "poster": "/posters/tt0000022.jpg",
+    "stills": [
+      "/posters/tt0000022-still1.jpg",
+      "/posters/tt0000022-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "80s_comedy_devotee",
+        "rating": 9,
+        "title": "Underrated 80s gem",
+        "body": "Sokolsky writes teenage dialogue that actually sounds like teenagers. Trip Mancuso and Bea Holcombe have great unforced chemistry. The shore-trip sequence is one of the best comic setpieces of the decade."
+      },
+      {
+        "author": "matinee_archive",
+        "rating": 7,
+        "title": "Charming if uneven",
+        "body": "Some of the supporting characters feel like they wandered in from a different, broader film. But every scene with the two leads alone is gold. Hold for the closing-credits cover of \"Walking on Sunshine.\""
+      },
+      {
+        "author": "casual_classics",
+        "rating": 6,
+        "title": "Lightweight fun",
+        "body": "Not aiming for greatness, just a good time. Provides one. Forgettable in the best way. Better than its title implies."
+      },
+      {
+        "author": "modernist_picks",
+        "rating": 5,
+        "title": "Hasn't aged perfectly",
+        "body": "A few jokes land awkwardly in 2024. The central romance is sweet and the soundtrack is fantastic. Mixed feelings overall — admire the craft, wish a couple of scenes had been written differently."
+      },
+      {
+        "author": "underrated_comedy",
+        "rating": 8,
+        "title": "Where has Bea Holcombe been hiding",
+        "body": "She gives one of the great teen-comedy female leads of the era and then almost never made another film. Watch the parallel-parking scene at the end of the second Saturday. Comedy gold."
+      }
+    ],
+    "releaseDate": "June 13, 1986 (United States)",
+    "country": [
+      "United States"
+    ],
+    "language": [
+      "English"
+    ],
+    "aka": [
+      "Carnet a Pruebas",
+      "Permis Provisoire",
+      "Führerschein-Frust"
+    ],
+    "filmingLocations": [
+      "Montclair, New Jersey, USA",
+      "Asbury Park, New Jersey, USA",
+      "Jersey City, New Jersey, USA"
+    ],
+    "productionCompanies": [
+      "Crown Jersey Pictures",
+      "Sokolsky-Vintner Productions",
+      "Half-Pipe Films"
+    ],
+    "budget": 4800000,
+    "boxOffice": {
+      "grossUSCanada": 18400000,
+      "openingWeekend": 3200000,
+      "grossWorldwide": 24800000
+    },
+    "popularity": 4218,
+    "popularityChange": 6,
+    "certification": "PG-13",
+    "metascore": 64,
+    "criticReviewCount": 41,
+    "watchlistCount": 18400
+  },
+  {
+    "id": "tt0000023",
+    "title": "İstanbul, 1922",
+    "year": 2013,
+    "runtime": 138,
+    "rating": 7.7,
+    "voteCount": 28420,
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "director": "Cem Tekinalp",
+    "writers": [
+      "Cem Tekinalp",
+      "Ayşe Yıldırım"
+    ],
+    "cast": [
+      {
+        "name": "Selim Pamir",
+        "role": "Hakkı Bey",
+        "photo": "/posters/tt0000023-cast-1.jpg"
+      },
+      {
+        "name": "Defne Aksoy",
+        "role": "Mira Levi",
+        "photo": "/posters/tt0000023-cast-2.jpg"
+      },
+      {
+        "name": "Murat Demirbaş",
+        "role": "Captain Vahid",
+        "photo": "/posters/tt0000023-cast-3.jpg"
+      },
+      {
+        "name": "Eleni Voutsa",
+        "role": "Despina Andreou",
+        "photo": "/posters/tt0000023-cast-4.jpg"
+      },
+      {
+        "name": "Tariq Adnan",
+        "role": "Father Suheil",
+        "photo": "/posters/tt0000023-cast-5.jpg"
+      }
+    ],
+    "synopsis": "In the autumn of 1922, with the Ottoman Empire dissolving and the new Republic not yet declared, a translator working for the occupying Allied administration tries to evacuate three families — a Greek Orthodox, a Jewish, and an Armenian — from the same crumbling apartment building near the Golden Horn. He has six papers to sign and seventeen people to save. The river will not wait, and neither will the city.",
+    "tagline": "The city was changing names. They had to change cities.",
+    "poster": "/posters/tt0000023.jpg",
+    "stills": [
+      "/posters/tt0000023-still1.jpg",
+      "/posters/tt0000023-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "world_cinema_devotee",
+        "rating": 9,
+        "title": "A delicate historical achievement",
+        "body": "Tekinalp handles a famously difficult moment in Istanbul's history with extraordinary care. No villains, no heroes — only people in a building making decisions that will define their grandchildren. Selim Pamir's translator is the moral center and he carries it."
+      },
+      {
+        "author": "history_film_jl",
+        "rating": 8,
+        "title": "Quietly devastating",
+        "body": "Refuses to dramatize the history beyond its actual emotional truth. The decision the translator makes in the final act is set up beat by beat. I exhaled audibly when the credits rolled."
+      },
+      {
+        "author": "festival_circuit",
+        "rating": 8,
+        "title": "Genuinely multicultural filmmaking",
+        "body": "Three communities, three languages on screen, three perspectives held with care. Defne Aksoy and Eleni Voutsa especially deserve mention."
+      },
+      {
+        "author": "casual_movie_fan",
+        "rating": 6,
+        "title": "Too much history, too little film",
+        "body": "Subject is fascinating but the script occasionally becomes a lecture. When the film trusts its characters it sings. When it doesn't, it lingers."
+      },
+      {
+        "author": "turkish_cinema_fan",
+        "rating": 8,
+        "title": "An important national film",
+        "body": "Tekinalp does something Turkish cinema rarely does — speaks honestly about who lived in this city before the Republic and what happened to them. The Hagia Triada scene is unforgettable."
+      }
+    ],
+    "releaseDate": "April 19, 2013 (Turkey)",
+    "country": [
+      "Turkey",
+      "Greece",
+      "France"
+    ],
+    "language": [
+      "Turkish",
+      "Greek",
+      "Ladino",
+      "French"
+    ],
+    "aka": [
+      "İstanbul 1922",
+      "Constantinople, 1922",
+      "Estambul, 1922"
+    ],
+    "filmingLocations": [
+      "Beyoğlu, Istanbul, Turkey",
+      "Balat, Istanbul, Turkey",
+      "Princes' Islands, Istanbul, Turkey",
+      "Thessaloniki, Greece"
+    ],
+    "productionCompanies": [
+      "Karaköy Films",
+      "Levantine Pictures",
+      "Cinéma du Sud"
+    ],
+    "budget": 3200000,
+    "boxOffice": {
+      "grossUSCanada": 480000,
+      "openingWeekend": 24000,
+      "grossWorldwide": 4280000
+    },
+    "popularity": 5421,
+    "popularityChange": 8,
+    "certification": "PG-13",
+    "metascore": 84,
+    "criticReviewCount": 78,
+    "watchlistCount": 28400
+  },
+  {
+    "id": "tt0000024",
+    "title": "The Throne of Tyre",
+    "year": 1959,
+    "runtime": 184,
+    "rating": 6.9,
+    "voteCount": 38420,
+    "genres": [
+      "History",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Norman Vasilek",
+    "writers": [
+      "Norman Vasilek",
+      "Edward Hollis"
+    ],
+    "cast": [
+      {
+        "name": "Charles Berkely",
+        "role": "Ahirom of Tyre",
+        "photo": "/posters/tt0000024-cast-1.jpg"
+      },
+      {
+        "name": "Roxanne Selden",
+        "role": "Princess Eshmunazar",
+        "photo": "/posters/tt0000024-cast-2.jpg"
+      },
+      {
+        "name": "Donovan Boyd",
+        "role": "King Hiram",
+        "photo": "/posters/tt0000024-cast-3.jpg"
+      },
+      {
+        "name": "Gladys Sherwood",
+        "role": "Queen-Mother Anath",
+        "photo": "/posters/tt0000024-cast-4.jpg"
+      },
+      {
+        "name": "Maximus Lange",
+        "role": "General Bodashtart",
+        "photo": "/posters/tt0000024-cast-5.jpg"
+      },
+      {
+        "name": "Eli Wexlin",
+        "role": "High Priest Mago",
+        "photo": "/posters/tt0000024-cast-6.jpg"
+      }
+    ],
+    "synopsis": "Across two and a half decades of intrigue, exile, and reconquest, an exiled Phoenician prince makes his return to the throne of the merchant city of Tyre — only to discover that the empire his father built on silver and cedar has been rebuilt by his uncle on something far older and stranger. A sweeping, three-hour Hollywood biblical-era epic, complete with intermission, in the grand DeMille tradition.",
+    "tagline": "The seas obeyed his fathers. The throne would obey him.",
+    "poster": "/posters/tt0000024.jpg",
+    "stills": [
+      "/posters/tt0000024-still1.jpg",
+      "/posters/tt0000024-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "classics_only",
+        "rating": 8,
+        "title": "A grand old picture",
+        "body": "Three hours, an intermission, and one of the great matte-painting setups of the 1950s. Charles Berkely chews scenery in a way only mid-century leading men could and the film is better for it. Roxanne Selden is luminous."
+      },
+      {
+        "author": "matinee_archive",
+        "rating": 7,
+        "title": "Lavish if creaky",
+        "body": "Like all biblical-era epics of the era, it would benefit from being twenty minutes shorter and fifteen percent less stately. Still, the harbor-of-Tyre sequence is genuinely spectacular."
+      },
+      {
+        "author": "modernist_picks",
+        "rating": 5,
+        "title": "Hasn't aged perfectly",
+        "body": "The casting choices and pacing are products of their time and stay there. The set design, however, is still breathtaking. Watch it for the visuals and forgive the rest."
+      },
+      {
+        "author": "epic_devotee",
+        "rating": 9,
+        "title": "They don't make them like this",
+        "body": "I will defend the three-hour biblical-era Hollywood epic until I die. This is one of the prouder examples. The battle outside the gates is some of the finest large-scale staging of the decade."
+      },
+      {
+        "author": "casual_classics",
+        "rating": 6,
+        "title": "A long Sunday afternoon",
+        "body": "Settle in with a sandwich. It's exactly what it looks like and it does what it does pretty well. Could lose twenty-five minutes and improve. Donovan Boyd is having the time of his life."
+      }
+    ],
+    "releaseDate": "November 19, 1959 (United States)",
+    "country": [
+      "United States"
+    ],
+    "language": [
+      "English"
+    ],
+    "aka": [
+      "El Trono de Tiro",
+      "Le Trône de Tyr",
+      "Der Thron von Tyrus"
+    ],
+    "filmingLocations": [
+      "MGM Studios, Culver City, California, USA",
+      "Almería, Andalusia, Spain",
+      "Tabernas Desert, Andalusia, Spain"
+    ],
+    "productionCompanies": [
+      "Metro Crown Pictures",
+      "Vasilek-Hollis Productions"
+    ],
+    "budget": 9800000,
+    "boxOffice": {
+      "grossUSCanada": 28400000,
+      "openingWeekend": 4200000,
+      "grossWorldwide": 44800000
+    },
+    "popularity": 9842,
+    "popularityChange": -6,
+    "certification": "NR",
+    "metascore": 68,
+    "criticReviewCount": 38,
+    "watchlistCount": 12400
+  },
+  {
+    "id": "tt0000025",
+    "title": "What the Owls Know",
+    "year": 2024,
+    "runtime": 102,
+    "rating": 7.4,
+    "voteCount": 92840,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Eleanor Whitmer",
+    "writers": [
+      "Eleanor Whitmer"
+    ],
+    "cast": [
+      {
+        "name": "Maeve Halloran",
+        "role": "June Tarrant",
+        "photo": "/posters/tt0000025-cast-1.jpg"
+      },
+      {
+        "name": "Brent Pelletier",
+        "role": "Wade Tarrant",
+        "photo": "/posters/tt0000025-cast-2.jpg"
+      },
+      {
+        "name": "Wren Okafor",
+        "role": "Sister Bel",
+        "photo": "/posters/tt0000025-cast-3.jpg"
+      },
+      {
+        "name": "Reginald Tice",
+        "role": "Pastor Boe",
+        "photo": "/posters/tt0000025-cast-4.jpg"
+      },
+      {
+        "name": "Daisy Mulvey",
+        "role": "Inez",
+        "photo": "/posters/tt0000025-cast-5.jpg"
+      }
+    ],
+    "synopsis": "A young woman returns to the Olympic Peninsula timber town where she grew up to identify the body of her older sister, who has been missing for nine years. The town remembers what it owes her family and offers her warm rooms, hot food, and a single carved wooden owl on her motel pillow each night. By the third night she begins counting the owls and realizes the count is higher than the nights.",
+    "tagline": "What the woods take, the woods remember.",
+    "poster": "/posters/tt0000025.jpg",
+    "stills": [
+      "/posters/tt0000025-still1.jpg",
+      "/posters/tt0000025-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "elevated_horror_fan",
+        "rating": 9,
+        "title": "A24 has another one",
+        "body": "Whitmer's debut feature is patient, terrifying, and quietly enraged. Maeve Halloran gives a leading performance of contained grief that earns every supernatural beat. The owl motif is one of the better visual ideas in recent horror."
+      },
+      {
+        "author": "folk_horror_purist",
+        "rating": 8,
+        "title": "Real folk horror, not aesthetic folk horror",
+        "body": "Most modern folk horror gestures at the genre. This one is in the genre, and rigorously. The town's communal complicity is the actual horror — the supernatural is the visible symptom."
+      },
+      {
+        "author": "horror_skeptic",
+        "rating": 6,
+        "title": "Atmosphere over scares",
+        "body": "Beautifully shot, well acted, very little actually happens until the last twenty minutes. Whether you enjoy that depends on what you want from a horror film. I wanted slightly more."
+      },
+      {
+        "author": "casual_horror_fan",
+        "rating": 5,
+        "title": "Slow and slow and slow",
+        "body": "I get what it's going for and I respect the craft. I was just bored a lot. The ending is genuinely chilling but the road there is the longest two hours I've spent in a theater this year."
+      },
+      {
+        "author": "modernist_picks",
+        "rating": 8,
+        "title": "Whitmer is the real deal",
+        "body": "Already excited for whatever she makes next. The script trusts its audience, the cinematography of the Olympic Peninsula is gorgeously oppressive, and the score is doing the most by doing the least. Watch in a dark room."
+      }
+    ],
+    "releaseDate": "September 27, 2024 (United States)",
+    "country": [
+      "United States"
+    ],
+    "language": [
+      "English"
+    ],
+    "aka": [
+      "Lo Que Saben los Búhos",
+      "Ce Que Savent les Hiboux",
+      "Was die Eulen Wissen"
+    ],
+    "filmingLocations": [
+      "Forks, Washington, USA",
+      "Olympic National Park, Washington, USA",
+      "Aberdeen, Washington, USA",
+      "Vancouver Island, British Columbia, Canada"
+    ],
+    "productionCompanies": [
+      "Olympic Hush Pictures",
+      "Cedar Mountain Films",
+      "A24"
+    ],
+    "budget": 5400000,
+    "boxOffice": {
+      "grossUSCanada": 8400000,
+      "openingWeekend": 1840000,
+      "grossWorldwide": 12400000
+    },
+    "popularity": 412,
+    "popularityChange": 28,
+    "certification": "R",
+    "metascore": 88,
+    "criticReviewCount": 184,
+    "watchlistCount": 124000
+  },
+  {
+    "id": "tt0000026",
+    "title": "Square of Light",
+    "year": 2012,
+    "runtime": 122,
+    "rating": 7.7,
+    "voteCount": 24820,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "director": "Mona Salloum",
+    "writers": [
+      "Mona Salloum",
+      "Ramzi El-Tahtawy"
+    ],
+    "cast": [
+      {
+        "name": "Nadia El-Hamamsy",
+        "role": "Nour Rashid",
+        "photo": "/posters/tt0000026-cast-1.jpg"
+      },
+      {
+        "name": "Karim Bayoumi",
+        "role": "Hassan Rashid",
+        "photo": "/posters/tt0000026-cast-2.jpg"
+      },
+      {
+        "name": "Yara Khalifa",
+        "role": "Hala",
+        "photo": "/posters/tt0000026-cast-3.jpg"
+      },
+      {
+        "name": "Tarek Mosbah",
+        "role": "Inspector Saber",
+        "photo": "/posters/tt0000026-cast-4.jpg"
+      },
+      {
+        "name": "Salwa El-Sherif",
+        "role": "Umm Sara",
+        "photo": "/posters/tt0000026-cast-5.jpg"
+      },
+      {
+        "name": "Mahmoud Abdel-Latif",
+        "role": "Ahmed",
+        "photo": "/posters/tt0000026-cast-6.jpg"
+      }
+    ],
+    "synopsis": "A young investigative journalist in Cairo discovers a worn folder of typewritten reports tying her favourite uncle — now a respected newspaper publisher — to a chain of disappearances in the years leading up to the 2011 revolution. As the country reorganises itself around her in the heat of late summer, she must decide whether to publish what she knows or protect a family that has carried her since her father died. The longer she holds the folder, the more it begins to read like a letter addressed to her.",
+    "tagline": "Some secrets stay silent. Others speak.",
+    "poster": "/posters/tt0000026.jpg",
+    "stills": [
+      "/posters/tt0000026-still1.jpg",
+      "/posters/tt0000026-still2.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "arabic_film_archive",
+        "rating": 9,
+        "title": "An essential post-revolution film",
+        "body": "Salloum directs with patience and precision. Nadia El-Hamamsy holds the centre of every frame she occupies. The film never lets you forget the heat of that summer or the cost of what it is asking of its protagonist."
+      },
+      {
+        "author": "festival_circuit",
+        "rating": 8,
+        "title": "Patient and devastating",
+        "body": "Picked it up at Marrakech and have been recommending it ever since. The script earns every quiet decision. The final scene in the newsroom corridor will be studied for years."
+      },
+      {
+        "author": "world_cinema_devotee",
+        "rating": 9,
+        "title": "A confident, necessary debut",
+        "body": "First features rarely arrive this fully formed. Salloum understands that political cinema does its best work at the kitchen table, not the protest. Every meal Nour shares with her uncle is its own slow tightening."
+      },
+      {
+        "author": "casual_viewer",
+        "rating": 6,
+        "title": "Slow but rewarding",
+        "body": "The first hour is patience-testing if you do not know the political backdrop. Once the second half clicks into place I was completely with it. Worth the demand it makes."
+      },
+      {
+        "author": "cairo_critic",
+        "rating": 8,
+        "title": "Asks the questions the news won't",
+        "body": "What Egyptian cinema has been quietly doing in the post-revolution decade is some of the best work in world cinema and almost no one outside the festival circuit is paying attention. Salloum belongs in that conversation."
+      }
+    ],
+    "releaseDate": "October 18, 2012 (Egypt)",
+    "country": [
+      "Egypt",
+      "France"
+    ],
+    "language": [
+      "Arabic"
+    ],
+    "aka": [
+      "ميدان النور",
+      "La Place de la Lumière",
+      "Plaza de Luz",
+      "Lichtplatz"
+    ],
+    "filmingLocations": [
+      "Downtown Cairo, Cairo Governorate, Egypt",
+      "Garden City, Cairo, Egypt",
+      "Heliopolis, Cairo, Egypt",
+      "Studio Misr, Giza, Egypt"
+    ],
+    "productionCompanies": [
+      "Misr International Films",
+      "Aswan Pictures",
+      "Cinéma Levantine",
+      "Studio Misr"
+    ],
+    "budget": 1800000,
+    "boxOffice": {
+      "grossUSCanada": 48000,
+      "openingWeekend": 124000,
+      "grossWorldwide": 2840000
+    },
+    "popularity": 4218,
+    "popularityChange": 6,
+    "certification": "PG-13",
+    "metascore": 84,
+    "criticReviewCount": 64,
+    "watchlistCount": 14800
+  }
+]
