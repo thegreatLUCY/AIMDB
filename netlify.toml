@@ -1,0 +1,14 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  # Lock the Node version so dev/CI/Netlify all match (Next.js 16 needs Node 20+)
+  NODE_VERSION = "20"
+  # Skip telemetry pings during build
+  NEXT_TELEMETRY_DISABLED = "1"
+
+# The official Netlify Next.js runtime handles SSR/ISR/middleware automatically.
+# It's normally auto-detected, but declaring it explicitly avoids ambiguity.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
