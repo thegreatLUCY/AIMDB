@@ -834,50 +834,53 @@
   },
   {
     "id": "tt0000008",
-    "title": "Onze Heures",
-    "year": 1962,
-    "runtime": 89,
-    "rating": 7.9,
-    "voteCount": 22840,
+    "title": "Khat Talata",
+    "year": 2023,
+    "runtime": 112,
+    "rating": 7.8,
+    "voteCount": 41280,
     "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
+      "Drama"
     ],
-    "director": "Jean-Marc Verneuil",
+    "director": "Hala Mansour",
     "writers": [
-      "Jean-Marc Verneuil",
-      "Hélène Roussel"
+      "Hala Mansour",
+      "Youssef Bahgat"
     ],
     "cast": [
       {
-        "name": "Laurent Doré",
-        "role": "Bertrand Pichon",
+        "name": "Sherif Mansour",
+        "role": "Ashraf El-Sayed",
         "photo": "/posters/tt0000008-cast-1.jpg"
       },
       {
-        "name": "Mireille Carette",
-        "role": "Hélène Vassard",
+        "name": "Mariam Adel",
+        "role": "Nour",
         "photo": "/posters/tt0000008-cast-2.jpg"
       },
       {
-        "name": "Pierre-Yves Mont",
-        "role": "Inspecteur Garnier",
+        "name": "Abdel-Rahman Hosny",
+        "role": "Am Fathy",
         "photo": "/posters/tt0000008-cast-3.jpg"
       },
       {
-        "name": "Édith Lambert",
-        "role": "Madame Roux",
+        "name": "Yasmin Refaat",
+        "role": "Hoda",
         "photo": "/posters/tt0000008-cast-4.jpg"
       },
       {
-        "name": "Hugo Sénéchal",
-        "role": "Loïc \"Le Patron\" Marchais",
+        "name": "Tarek El-Shennawy",
+        "role": "Sabry",
         "photo": "/posters/tt0000008-cast-5.jpg"
+      },
+      {
+        "name": "Hisham Darwish",
+        "role": "Mr. Wagdy",
+        "photo": "/posters/tt0000008-cast-6.jpg"
       }
     ],
-    "synopsis": "A petty Parisian forger receives an anonymous typewritten letter at eleven o'clock one Tuesday morning, naming the person who will betray him by Friday. As he tries to outmaneuver each of the five names on his short list of suspects, he begins to suspect that the letter's author is himself — written eleven days from now, or remembered from eleven years ago. By Friday, he is no longer certain which.",
-    "tagline": "Quelqu'un sait. Bientôt, tout le monde.",
+    "synopsis": "Over one scorching day in Cairo, a weary microbus driver works the length of Line Three — from the chaos of Ramses Square to the edge of Imbaba — as a rotating cast of passengers carry their small crises in and out of his eighteen-seat world. A university student rehearsing a confession, an old man returning to a neighborhood that no longer exists, a young mother counting coins for a fare she can't quite cover. By nightfall the driver must decide whether the route he has driven for twenty years is still the road he wants.",
+    "tagline": "Everyone is going somewhere. Almost no one knows where.",
     "poster": "/posters/tt0000008.jpg",
     "stills": [
       "/posters/tt0000008-still1.jpg",
@@ -885,73 +888,72 @@
     ],
     "reviews": [
       {
-        "author": "nouvelle_vague_lover",
+        "author": "cairo_cinephile",
         "rating": 9,
-        "title": "A perfect compact crime film",
-        "body": "Eighty-nine minutes of tightening grip. Verneuil understood that paranoia is a structural device, not a mood, and he builds it into the editing itself. Doré's face in the final twenty minutes is one of the great quiet performances of the era."
+        "title": "Cairo as a character",
+        "body": "Mansour turns a microbus into the whole of modern Egypt. The heat, the noise, the tenderness between strangers — it's all here. Sherif Mansour gives the performance of his career with almost no dialogue."
       },
       {
-        "author": "paris_minuit",
-        "rating": 10,
-        "title": "The masterpiece nobody saw",
-        "body": "Eclipsed at release by louder New Wave films, this one keeps revealing itself on rewatch. Every cut means something. The use of the typewriter as a sound motif is just exquisite. A film about how paranoia rewrites your own memory in real time."
-      },
-      {
-        "author": "tcmsubscriber",
-        "rating": 7,
-        "title": "Stylish, sometimes self-conscious",
-        "body": "Beautifully shot in crisp black and white, and the central conceit is gripping, but Verneuil occasionally lets his cleverness show. The third-act voiceover felt like a hedge. Still, an essential 1962 watch."
-      },
-      {
-        "author": "just_films",
-        "rating": 5,
-        "title": "Cool but cold",
-        "body": "Admire it more than I liked it. Everyone smokes, everyone monologues, the camera glides — fine, that's the era. But the characters are kept at such a deliberate emotional distance that the ending didn't land for me."
-      },
-      {
-        "author": "cinephile_arno",
+        "author": "arab_film_circuit",
         "rating": 8,
-        "title": "Verneuil's tightest work",
-        "body": "Among the director's six features this is the most disciplined. Mireille Carette is doing wonders with very little dialogue and her final scene in the café is devastating. Restored print is worth seeking out."
+        "title": "A humane, observant drama",
+        "body": "Structurally it's a day-in-the-life ensemble, and it earns every minute. The student's storyline gutted me. Loses a little focus in the final act but recovers for a beautiful ending."
+      },
+      {
+        "author": "popcorn_masr",
+        "rating": 6,
+        "title": "Slow but sincere",
+        "body": "Beautifully shot and acted, though the pacing tests your patience in the middle. If you grew up taking the microbus, every detail will ring true. Worth it for the last fifteen minutes."
+      },
+      {
+        "author": "festival_watcher",
+        "rating": 9,
+        "title": "The Egyptian film of the year",
+        "body": "Premiered at El Gouna and deserved every prize it got. The script trusts silence. The sound design — the rattle of the door, the conductor's call — is its own kind of music."
+      },
+      {
+        "author": "skeptical_viewer",
+        "rating": 5,
+        "title": "Admirable, not gripping",
+        "body": "I respect what it's doing more than I enjoyed sitting through it. The vignette structure means some passengers land and some don't. Still, a confident piece of filmmaking."
       }
     ],
-    "releaseDate": "May 8, 1962 (France)",
+    "releaseDate": "November 30, 2023 (Egypt)",
     "country": [
-      "France",
-      "Italy"
+      "Egypt"
     ],
     "language": [
-      "French",
-      "Italian"
+      "Arabic"
     ],
     "aka": [
-      "Onze Heures",
-      "Eleven O'Clock",
-      "Le Undici",
-      "Las Once"
+      "الخط تلاتة",
+      "Line Three",
+      "Ligne Trois",
+      "Línea Tres"
     ],
     "filmingLocations": [
-      "9th arrondissement, Paris, Île-de-France, France",
-      "Montmartre, Paris, France",
-      "Studios de Boulogne, Boulogne-Billancourt, Île-de-France, France"
+      "Ramses Square, Cairo, Egypt",
+      "Downtown Cairo, Egypt",
+      "Imbaba, Giza, Egypt",
+      "6th October Bridge, Cairo, Egypt"
     ],
     "productionCompanies": [
-      "Films Aragon",
-      "Compagnie Sud-Ouest",
-      "Producciones Eldoradores"
+      "Nile Mist Films",
+      "Cairo Independent",
+      "Red Star Pictures Egypt"
     ],
-    "budget": 220000,
+    "budget": 850000,
     "boxOffice": {
-      "grossUSCanada": 720000,
-      "openingWeekend": 48000,
-      "grossWorldwide": 1840000
+      "grossUSCanada": 184000,
+      "openingWeekend": 320000,
+      "grossWorldwide": 3120000
     },
-    "popularity": 5224,
-    "popularityChange": -2,
-    "certification": "NR",
-    "metascore": 88,
+    "popularity": 1620,
+    "popularityChange": 22,
+    "certification": "PG-13",
+    "metascore": 86,
     "criticReviewCount": 64,
-    "watchlistCount": 18900
+    "watchlistCount": 33400
   },
   {
     "id": "tt0000009",
